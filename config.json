@@ -1,11 +1,10 @@
 {
-  "typeScale": [
-    3, 2.25, 1.5, 1.25, 1, 0.875, 0.75
-  ],
+  "typeScale": [3, 2.25, 1.5, 1.25, 1, 0.875, 0.75],
   "spacing": [0, 0.25, 0.5, 0.75, 1, 1.5, 2, 3, 4, 8, 16],
   "customMedia": [
     { "s": 20 },
-    { "ns": {
+    {
+      "ns": {
         "value": 40,
         "minWidth": true
       }
@@ -15,10 +14,11 @@
     { "xl": 80 }
   ],
   "colors": {
-    "rebel-pink": "#F71963",
-    "heavy-rebel-pink": "#dd1659",
-
-    "elite-purple": "#8914CC",
+    "invisible-blue": "#F3F4F9",
+    "ash-blue": "#9FA6BF",
+    "go-blue": "#4B71FC",
+    "deep-blue": "#212E5F",
+    "deepest-blue": "#07133E",
 
     "near-black": "#3d3e40",
     "dark-gray": "#565759",
@@ -49,7 +49,7 @@
   "widths": [1, 2, 4, 8, 16],
   "maxWidths": [1, 2, 4, 8, 16, 32, 48, 64, 96],
   "heights": [1, 2, 4, 8, 16],
-  "typography":{
+  "typography": {
     "measure": [30, 34, 20]
   },
   "opacity": [1, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1, 0.05, 0.025, 0]
