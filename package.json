@@ -1,8 +1,7 @@
 {
-  "name": "gc-tachyons",
-  "version": "1.0.2",
-  "description":
-    "This project is an **extension** of [tachyons](https://github.com/tachyons-css/tachyons) and a fork from [vtex-tachyons](https://github.com/vtex/vtex-tachyons). Files in `src/` add or redefine classes in `tachyons`, and the final built files bundle the original `tachyons`.",
+  "name": "@gocommerce/tachyons",
+  "version": "1.0.0",
+  "description": "This project is a fork from [vtex-tachyons](https://github.com/vtex/vtex-tachyons).",
   "main": "tachyons.css",
   "scripts": {
     "prepublishOnly": "node index.js"
@@ -11,9 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/vtex-gocommerce/tachyons-ui.git"
   },
-  "keywords": ["vtex", "gocommerce", "tachyons"],
+  "keywords": [
+    "vtex",
+    "gocommerce",
+    "tachyons"
+  ],
   "author": "Breno Calazans (@klzs)",
-  "contributors": ["João Gonçalves <joao.goncalves@vtex.com.br>"],
+  "contributors": [
+    "João Gonçalves <joao.goncalves@vtex.com.br>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vtex-gocommerce/tachyons-ui/issues"

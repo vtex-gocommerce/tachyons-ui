@@ -1,20 +1,20 @@
-# vtex-tachyons
+# GoCommerce Tachyons
 
 ## Usage
 
 Install
 
 ```sh
-npm i vtex-tachyons --save
+npm i @gocommerce/tachyons --save
 ```
 
 Add to your entry point
 
 ```js
-import 'vtex-tachyons'
+import '@gocommerce/tachyons'
 ```
 
-**IMPORTANT!**: You should **not** import `tachyons` in your project. It is already built as part of `vtex-tachyons`.
+**IMPORTANT!**: You should **not** import `tachyons` in your project. It is already built as part of `@gocommerce/tachyons`.
 
 ## How to develop
 
