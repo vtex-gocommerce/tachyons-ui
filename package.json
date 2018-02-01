@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/vtex-gocommerce/tachyons-ui#readme",
   "devDependencies": {
-    "tachyons-generator": "git+https://github.com/vtex-gocommerce/tachyons-generator.git#v0.19.2-gc3"
+    "tachyons-generator": "git+https://github.com/vtex-gocommerce/tachyons-generator.git#v0.19.2-gc4"
   }
 }
