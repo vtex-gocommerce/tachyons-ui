@@ -1,6 +1,6 @@
 {
   "name": "@gocommerce/tachyons",
-  "version": "1.0.2-gc2",
+  "version": "1.0.2-gc3",
   "description": "This project is a fork from [vtex-tachyons](https://github.com/vtex/vtex-tachyons).",
   "main": "tachyons.css",
   "scripts": {
