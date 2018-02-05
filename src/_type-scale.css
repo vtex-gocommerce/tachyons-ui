@@ -14,6 +14,7 @@
     5 = 5th step in size scale
     6 = 6th step in size scale
     7 = 7th step in size scale
+    8 = 8th step in size scale
 
   Media Query Extensions:
     -s  = 20em
@@ -26,18 +27,20 @@
 .f2 { font-size: 2.25rem; }
 .f3 { font-size: 1.5rem; }
 .f4 { font-size: 1.25rem; }
-.f5 { font-size: 1rem; }
-.f6 { font-size: 0.875rem; }
-.f7 { font-size: 0.75rem; }
+.f5 { font-size: 1.125rem; }
+.f6 { font-size: 1rem; }
+.f7 { font-size: 0.875rem; }
+.f8 { font-size: 0.75rem; }
 
 					@media screen and (min-width: 20em) and (max-width: 40em) {
 						.f1-s { font-size: 3rem; }
 .f2-s { font-size: 2.25rem; }
 .f3-s { font-size: 1.5rem; }
 .f4-s { font-size: 1.25rem; }
-.f5-s { font-size: 1rem; }
-.f6-s { font-size: 0.875rem; }
-.f7-s { font-size: 0.75rem; }
+.f5-s { font-size: 1.125rem; }
+.f6-s { font-size: 1rem; }
+.f7-s { font-size: 0.875rem; }
+.f8-s { font-size: 0.75rem; }
 					}
 				
 
@@ -46,9 +49,10 @@
 .f2-m { font-size: 2.25rem; }
 .f3-m { font-size: 1.5rem; }
 .f4-m { font-size: 1.25rem; }
-.f5-m { font-size: 1rem; }
-.f6-m { font-size: 0.875rem; }
-.f7-m { font-size: 0.75rem; }
+.f5-m { font-size: 1.125rem; }
+.f6-m { font-size: 1rem; }
+.f7-m { font-size: 0.875rem; }
+.f8-m { font-size: 0.75rem; }
 					}
 				
 
@@ -57,9 +61,10 @@
 .f2-l { font-size: 2.25rem; }
 .f3-l { font-size: 1.5rem; }
 .f4-l { font-size: 1.25rem; }
-.f5-l { font-size: 1rem; }
-.f6-l { font-size: 0.875rem; }
-.f7-l { font-size: 0.75rem; }
+.f5-l { font-size: 1.125rem; }
+.f6-l { font-size: 1rem; }
+.f7-l { font-size: 0.875rem; }
+.f8-l { font-size: 0.75rem; }
 					}
 				
 
@@ -68,9 +73,10 @@
 .f2-xl { font-size: 2.25rem; }
 .f3-xl { font-size: 1.5rem; }
 .f4-xl { font-size: 1.25rem; }
-.f5-xl { font-size: 1rem; }
-.f6-xl { font-size: 0.875rem; }
-.f7-xl { font-size: 0.75rem; }
+.f5-xl { font-size: 1.125rem; }
+.f6-xl { font-size: 1rem; }
+.f7-xl { font-size: 0.875rem; }
+.f8-xl { font-size: 0.75rem; }
 					}
 				
 
@@ -79,8 +85,9 @@
 .f2-ns { font-size: 2.25rem; }
 .f3-ns { font-size: 1.5rem; }
 .f4-ns { font-size: 1.25rem; }
-.f5-ns { font-size: 1rem; }
-.f6-ns { font-size: 0.875rem; }
-.f7-ns { font-size: 0.75rem; }
+.f5-ns { font-size: 1.125rem; }
+.f6-ns { font-size: 1rem; }
+.f7-ns { font-size: 0.875rem; }
+.f8-ns { font-size: 0.75rem; }
 					}
 				

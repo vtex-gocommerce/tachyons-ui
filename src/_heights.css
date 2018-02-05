@@ -17,6 +17,8 @@
     4 = 4th step in height scale
     5 = 5th step in height scale
     6 = 6th step in height scale
+    7 = 7th step in height scale
+    8 = 8th step in height scale
 
     -25   = literal value 25%
     -50   = literal value 50%
@@ -37,9 +39,11 @@
 .h1 { height: 0.5rem; }
 .h2 { height: 1rem; }
 .h3 { height: 2rem; }
-.h4 { height: 4rem; }
-.h5 { height: 8rem; }
-.h6 { height: 16rem; }
+.h4 { height: 2.5rem; }
+.h5 { height: 4rem; }
+.h6 { height: 4.5rem; }
+.h7 { height: 8rem; }
+.h8 { height: 16rem; }
 .h-25 { height: 25%; }
 .h-50 { height: 50%; }
 .h-75 { height: 75%; }
@@ -57,9 +61,11 @@
 						.h1-s { height: 0.5rem; }
 .h2-s { height: 1rem; }
 .h3-s { height: 2rem; }
-.h4-s { height: 4rem; }
-.h5-s { height: 8rem; }
-.h6-s { height: 16rem; }
+.h4-s { height: 2.5rem; }
+.h5-s { height: 4rem; }
+.h6-s { height: 4.5rem; }
+.h7-s { height: 8rem; }
+.h8-s { height: 16rem; }
 .h-25-s { height: 25%; }
 .h-50-s { height: 50%; }
 .h-75-s { height: 75%; }
@@ -79,9 +85,11 @@
 						.h1-m { height: 0.5rem; }
 .h2-m { height: 1rem; }
 .h3-m { height: 2rem; }
-.h4-m { height: 4rem; }
-.h5-m { height: 8rem; }
-.h6-m { height: 16rem; }
+.h4-m { height: 2.5rem; }
+.h5-m { height: 4rem; }
+.h6-m { height: 4.5rem; }
+.h7-m { height: 8rem; }
+.h8-m { height: 16rem; }
 .h-25-m { height: 25%; }
 .h-50-m { height: 50%; }
 .h-75-m { height: 75%; }
@@ -101,9 +109,11 @@
 						.h1-l { height: 0.5rem; }
 .h2-l { height: 1rem; }
 .h3-l { height: 2rem; }
-.h4-l { height: 4rem; }
-.h5-l { height: 8rem; }
-.h6-l { height: 16rem; }
+.h4-l { height: 2.5rem; }
+.h5-l { height: 4rem; }
+.h6-l { height: 4.5rem; }
+.h7-l { height: 8rem; }
+.h8-l { height: 16rem; }
 .h-25-l { height: 25%; }
 .h-50-l { height: 50%; }
 .h-75-l { height: 75%; }
@@ -123,9 +133,11 @@
 						.h1-xl { height: 0.5rem; }
 .h2-xl { height: 1rem; }
 .h3-xl { height: 2rem; }
-.h4-xl { height: 4rem; }
-.h5-xl { height: 8rem; }
-.h6-xl { height: 16rem; }
+.h4-xl { height: 2.5rem; }
+.h5-xl { height: 4rem; }
+.h6-xl { height: 4.5rem; }
+.h7-xl { height: 8rem; }
+.h8-xl { height: 16rem; }
 .h-25-xl { height: 25%; }
 .h-50-xl { height: 50%; }
 .h-75-xl { height: 75%; }
@@ -145,9 +157,11 @@
 						.h1-ns { height: 0.5rem; }
 .h2-ns { height: 1rem; }
 .h3-ns { height: 2rem; }
-.h4-ns { height: 4rem; }
-.h5-ns { height: 8rem; }
-.h6-ns { height: 16rem; }
+.h4-ns { height: 2.5rem; }
+.h5-ns { height: 4rem; }
+.h6-ns { height: 4.5rem; }
+.h7-ns { height: 8rem; }
+.h8-ns { height: 16rem; }
 .h-25-ns { height: 25%; }
 .h-50-ns { height: 50%; }
 .h-75-ns { height: 75%; }

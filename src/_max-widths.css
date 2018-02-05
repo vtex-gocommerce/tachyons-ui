@@ -16,6 +16,8 @@
     7 = 7th step in width scale
     8 = 8th step in width scale
     9 = 9th step in width scale
+    10 = 10th step in width scale
+    11 = 11st step in width scale
 
     -100 = literal value 100%
 
@@ -29,88 +31,100 @@
     -xl  = 80em
 */
 
-.mw1 { max-width: 1rem; }
-.mw2 { max-width: 2rem; }
-.mw3 { max-width: 4rem; }
-.mw4 { max-width: 8rem; }
-.mw5 { max-width: 16rem; }
-.mw6 { max-width: 32rem; }
-.mw7 { max-width: 48rem; }
-.mw8 { max-width: 64rem; }
-.mw9 { max-width: 96rem; }
+.mw1 { max-width: 0.5rem; }
+.mw2 { max-width: 1rem; }
+.mw3 { max-width: 2rem; }
+.mw4 { max-width: 4rem; }
+.mw5 { max-width: 4.5rem; }
+.mw6 { max-width: 8rem; }
+.mw7 { max-width: 16rem; }
+.mw8 { max-width: 32rem; }
+.mw9 { max-width: 48rem; }
+.mw10 { max-width: 64rem; }
+.mw11 { max-width: 96rem; }
 .mw-none { max-width: none; }
 .mw-100 { max-width: 100%; }
 
 					@media screen and (min-width: 20em) and (max-width: 40em) {
-						.mw1-s { max-width: 1rem; }
-.mw2-s { max-width: 2rem; }
-.mw3-s { max-width: 4rem; }
-.mw4-s { max-width: 8rem; }
-.mw5-s { max-width: 16rem; }
-.mw6-s { max-width: 32rem; }
-.mw7-s { max-width: 48rem; }
-.mw8-s { max-width: 64rem; }
-.mw9-s { max-width: 96rem; }
+						.mw1-s { max-width: 0.5rem; }
+.mw2-s { max-width: 1rem; }
+.mw3-s { max-width: 2rem; }
+.mw4-s { max-width: 4rem; }
+.mw5-s { max-width: 4.5rem; }
+.mw6-s { max-width: 8rem; }
+.mw7-s { max-width: 16rem; }
+.mw8-s { max-width: 32rem; }
+.mw9-s { max-width: 48rem; }
+.mw10-s { max-width: 64rem; }
+.mw11-s { max-width: 96rem; }
 .mw-none-s { max-width: none; }
 .mw-100-s { max-width: 100%; }
 					}
 				
 
 					@media screen and (min-width: 40em) and (max-width: 64em) {
-						.mw1-m { max-width: 1rem; }
-.mw2-m { max-width: 2rem; }
-.mw3-m { max-width: 4rem; }
-.mw4-m { max-width: 8rem; }
-.mw5-m { max-width: 16rem; }
-.mw6-m { max-width: 32rem; }
-.mw7-m { max-width: 48rem; }
-.mw8-m { max-width: 64rem; }
-.mw9-m { max-width: 96rem; }
+						.mw1-m { max-width: 0.5rem; }
+.mw2-m { max-width: 1rem; }
+.mw3-m { max-width: 2rem; }
+.mw4-m { max-width: 4rem; }
+.mw5-m { max-width: 4.5rem; }
+.mw6-m { max-width: 8rem; }
+.mw7-m { max-width: 16rem; }
+.mw8-m { max-width: 32rem; }
+.mw9-m { max-width: 48rem; }
+.mw10-m { max-width: 64rem; }
+.mw11-m { max-width: 96rem; }
 .mw-none-m { max-width: none; }
 .mw-100-m { max-width: 100%; }
 					}
 				
 
 					@media screen and (min-width: 64em) and (max-width: 80em) {
-						.mw1-l { max-width: 1rem; }
-.mw2-l { max-width: 2rem; }
-.mw3-l { max-width: 4rem; }
-.mw4-l { max-width: 8rem; }
-.mw5-l { max-width: 16rem; }
-.mw6-l { max-width: 32rem; }
-.mw7-l { max-width: 48rem; }
-.mw8-l { max-width: 64rem; }
-.mw9-l { max-width: 96rem; }
+						.mw1-l { max-width: 0.5rem; }
+.mw2-l { max-width: 1rem; }
+.mw3-l { max-width: 2rem; }
+.mw4-l { max-width: 4rem; }
+.mw5-l { max-width: 4.5rem; }
+.mw6-l { max-width: 8rem; }
+.mw7-l { max-width: 16rem; }
+.mw8-l { max-width: 32rem; }
+.mw9-l { max-width: 48rem; }
+.mw10-l { max-width: 64rem; }
+.mw11-l { max-width: 96rem; }
 .mw-none-l { max-width: none; }
 .mw-100-l { max-width: 100%; }
 					}
 				
 
 					@media screen and (min-width: 80em) {
-						.mw1-xl { max-width: 1rem; }
-.mw2-xl { max-width: 2rem; }
-.mw3-xl { max-width: 4rem; }
-.mw4-xl { max-width: 8rem; }
-.mw5-xl { max-width: 16rem; }
-.mw6-xl { max-width: 32rem; }
-.mw7-xl { max-width: 48rem; }
-.mw8-xl { max-width: 64rem; }
-.mw9-xl { max-width: 96rem; }
+						.mw1-xl { max-width: 0.5rem; }
+.mw2-xl { max-width: 1rem; }
+.mw3-xl { max-width: 2rem; }
+.mw4-xl { max-width: 4rem; }
+.mw5-xl { max-width: 4.5rem; }
+.mw6-xl { max-width: 8rem; }
+.mw7-xl { max-width: 16rem; }
+.mw8-xl { max-width: 32rem; }
+.mw9-xl { max-width: 48rem; }
+.mw10-xl { max-width: 64rem; }
+.mw11-xl { max-width: 96rem; }
 .mw-none-xl { max-width: none; }
 .mw-100-xl { max-width: 100%; }
 					}
 				
 
 					@media screen and (min-width: 40em) {
-						.mw1-ns { max-width: 1rem; }
-.mw2-ns { max-width: 2rem; }
-.mw3-ns { max-width: 4rem; }
-.mw4-ns { max-width: 8rem; }
-.mw5-ns { max-width: 16rem; }
-.mw6-ns { max-width: 32rem; }
-.mw7-ns { max-width: 48rem; }
-.mw8-ns { max-width: 64rem; }
-.mw9-ns { max-width: 96rem; }
+						.mw1-ns { max-width: 0.5rem; }
+.mw2-ns { max-width: 1rem; }
+.mw3-ns { max-width: 2rem; }
+.mw4-ns { max-width: 4rem; }
+.mw5-ns { max-width: 4.5rem; }
+.mw6-ns { max-width: 8rem; }
+.mw7-ns { max-width: 16rem; }
+.mw8-ns { max-width: 32rem; }
+.mw9-ns { max-width: 48rem; }
+.mw10-ns { max-width: 64rem; }
+.mw11-ns { max-width: 96rem; }
 .mw-none-ns { max-width: none; }
 .mw-100-ns { max-width: 100%; }
 					}
