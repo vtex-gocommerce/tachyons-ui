@@ -680,6 +680,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
     3 = 3rd step in height scale
     4 = 4th step in height scale
     5 = 5th step in height scale
+    6 = 6th step in height scale
 
     -25   = literal value 25%
     -50   = literal value 50%
@@ -697,11 +698,12 @@ code, .code { font-family: Consolas, monaco, monospace; }
     -xl  = 80em
 
 */
-.h1 { height: 1rem; }
-.h2 { height: 2rem; }
-.h3 { height: 4rem; }
-.h4 { height: 8rem; }
-.h5 { height: 16rem; }
+.h1 { height: .5rem; }
+.h2 { height: 1rem; }
+.h3 { height: 2rem; }
+.h4 { height: 4rem; }
+.h5 { height: 8rem; }
+.h6 { height: 16rem; }
 .h-25 { height: 25%; }
 .h-50 { height: 50%; }
 .h-75 { height: 75%; }
@@ -1153,6 +1155,7 @@ img { max-width: 100%; }
     3 = 3rd step in width scale
     4 = 4th step in width scale
     5 = 5th step in width scale
+    6 = 6th step in width scale
 
     -10  = literal value 10%
     -20  = literal value 20%
@@ -1182,11 +1185,12 @@ img { max-width: 100%; }
     -xl  = 80em
 
 */
-.w1 { width: 1rem; }
-.w2 { width: 2rem; }
-.w3 { width: 4rem; }
-.w4 { width: 8rem; }
-.w5 { width: 16rem; }
+.w1 { width: .5rem; }
+.w2 { width: 1rem; }
+.w3 { width: 2rem; }
+.w4 { width: 4rem; }
+.w5 { width: 8rem; }
+.w6 { width: 16rem; }
 .w-10 { width: 10%; }
 .w-20 { width: 20%; }
 .w-25 { width: 25%; }
@@ -1652,11 +1656,12 @@ img { max-width: 100%; }
  .fw7-s { font-weight: 700; }
  .fw8-s { font-weight: 800; }
  .fw9-s { font-weight: 900; }
- .h1-s { height: 1rem; }
- .h2-s { height: 2rem; }
- .h3-s { height: 4rem; }
- .h4-s { height: 8rem; }
- .h5-s { height: 16rem; }
+ .h1-s { height: .5rem; }
+ .h2-s { height: 1rem; }
+ .h3-s { height: 2rem; }
+ .h4-s { height: 4rem; }
+ .h5-s { height: 8rem; }
+ .h6-s { height: 16rem; }
  .h-25-s { height: 25%; }
  .h-50-s { height: 50%; }
  .h-75-s { height: 75%; }
@@ -1753,11 +1758,12 @@ img { max-width: 100%; }
  .ws-normal-s { white-space: normal; }
  .nowrap-s { white-space: nowrap; }
  .pre-s { white-space: pre; }
- .w1-s { width: 1rem; }
- .w2-s { width: 2rem; }
- .w3-s { width: 4rem; }
- .w4-s { width: 8rem; }
- .w5-s { width: 16rem; }
+ .w1-s { width: .5rem; }
+ .w2-s { width: 1rem; }
+ .w3-s { width: 2rem; }
+ .w4-s { width: 4rem; }
+ .w5-s { width: 8rem; }
+ .w6-s { width: 16rem; }
  .w-10-s { width: 10%; }
  .w-20-s { width: 20%; }
  .w-25-s { width: 25%; }
@@ -2187,11 +2193,12 @@ img { max-width: 100%; }
  .fw7-m { font-weight: 700; }
  .fw8-m { font-weight: 800; }
  .fw9-m { font-weight: 900; }
- .h1-m { height: 1rem; }
- .h2-m { height: 2rem; }
- .h3-m { height: 4rem; }
- .h4-m { height: 8rem; }
- .h5-m { height: 16rem; }
+ .h1-m { height: .5rem; }
+ .h2-m { height: 1rem; }
+ .h3-m { height: 2rem; }
+ .h4-m { height: 4rem; }
+ .h5-m { height: 8rem; }
+ .h6-m { height: 16rem; }
  .h-25-m { height: 25%; }
  .h-50-m { height: 50%; }
  .h-75-m { height: 75%; }
@@ -2288,11 +2295,12 @@ img { max-width: 100%; }
  .ws-normal-m { white-space: normal; }
  .nowrap-m { white-space: nowrap; }
  .pre-m { white-space: pre; }
- .w1-m { width: 1rem; }
- .w2-m { width: 2rem; }
- .w3-m { width: 4rem; }
- .w4-m { width: 8rem; }
- .w5-m { width: 16rem; }
+ .w1-m { width: .5rem; }
+ .w2-m { width: 1rem; }
+ .w3-m { width: 2rem; }
+ .w4-m { width: 4rem; }
+ .w5-m { width: 8rem; }
+ .w6-m { width: 16rem; }
  .w-10-m { width: 10%; }
  .w-20-m { width: 20%; }
  .w-25-m { width: 25%; }
@@ -2722,11 +2730,12 @@ img { max-width: 100%; }
  .fw7-l { font-weight: 700; }
  .fw8-l { font-weight: 800; }
  .fw9-l { font-weight: 900; }
- .h1-l { height: 1rem; }
- .h2-l { height: 2rem; }
- .h3-l { height: 4rem; }
- .h4-l { height: 8rem; }
- .h5-l { height: 16rem; }
+ .h1-l { height: .5rem; }
+ .h2-l { height: 1rem; }
+ .h3-l { height: 2rem; }
+ .h4-l { height: 4rem; }
+ .h5-l { height: 8rem; }
+ .h6-l { height: 16rem; }
  .h-25-l { height: 25%; }
  .h-50-l { height: 50%; }
  .h-75-l { height: 75%; }
@@ -2823,11 +2832,12 @@ img { max-width: 100%; }
  .ws-normal-l { white-space: normal; }
  .nowrap-l { white-space: nowrap; }
  .pre-l { white-space: pre; }
- .w1-l { width: 1rem; }
- .w2-l { width: 2rem; }
- .w3-l { width: 4rem; }
- .w4-l { width: 8rem; }
- .w5-l { width: 16rem; }
+ .w1-l { width: .5rem; }
+ .w2-l { width: 1rem; }
+ .w3-l { width: 2rem; }
+ .w4-l { width: 4rem; }
+ .w5-l { width: 8rem; }
+ .w6-l { width: 16rem; }
  .w-10-l { width: 10%; }
  .w-20-l { width: 20%; }
  .w-25-l { width: 25%; }
@@ -3257,11 +3267,12 @@ img { max-width: 100%; }
  .fw7-xl { font-weight: 700; }
  .fw8-xl { font-weight: 800; }
  .fw9-xl { font-weight: 900; }
- .h1-xl { height: 1rem; }
- .h2-xl { height: 2rem; }
- .h3-xl { height: 4rem; }
- .h4-xl { height: 8rem; }
- .h5-xl { height: 16rem; }
+ .h1-xl { height: .5rem; }
+ .h2-xl { height: 1rem; }
+ .h3-xl { height: 2rem; }
+ .h4-xl { height: 4rem; }
+ .h5-xl { height: 8rem; }
+ .h6-xl { height: 16rem; }
  .h-25-xl { height: 25%; }
  .h-50-xl { height: 50%; }
  .h-75-xl { height: 75%; }
@@ -3358,11 +3369,12 @@ img { max-width: 100%; }
  .ws-normal-xl { white-space: normal; }
  .nowrap-xl { white-space: nowrap; }
  .pre-xl { white-space: pre; }
- .w1-xl { width: 1rem; }
- .w2-xl { width: 2rem; }
- .w3-xl { width: 4rem; }
- .w4-xl { width: 8rem; }
- .w5-xl { width: 16rem; }
+ .w1-xl { width: .5rem; }
+ .w2-xl { width: 1rem; }
+ .w3-xl { width: 2rem; }
+ .w4-xl { width: 4rem; }
+ .w5-xl { width: 8rem; }
+ .w6-xl { width: 16rem; }
  .w-10-xl { width: 10%; }
  .w-20-xl { width: 20%; }
  .w-25-xl { width: 25%; }
@@ -3792,11 +3804,12 @@ img { max-width: 100%; }
  .fw7-ns { font-weight: 700; }
  .fw8-ns { font-weight: 800; }
  .fw9-ns { font-weight: 900; }
- .h1-ns { height: 1rem; }
- .h2-ns { height: 2rem; }
- .h3-ns { height: 4rem; }
- .h4-ns { height: 8rem; }
- .h5-ns { height: 16rem; }
+ .h1-ns { height: .5rem; }
+ .h2-ns { height: 1rem; }
+ .h3-ns { height: 2rem; }
+ .h4-ns { height: 4rem; }
+ .h5-ns { height: 8rem; }
+ .h6-ns { height: 16rem; }
  .h-25-ns { height: 25%; }
  .h-50-ns { height: 50%; }
  .h-75-ns { height: 75%; }
@@ -3893,11 +3906,12 @@ img { max-width: 100%; }
  .ws-normal-ns { white-space: normal; }
  .nowrap-ns { white-space: nowrap; }
  .pre-ns { white-space: pre; }
- .w1-ns { width: 1rem; }
- .w2-ns { width: 2rem; }
- .w3-ns { width: 4rem; }
- .w4-ns { width: 8rem; }
- .w5-ns { width: 16rem; }
+ .w1-ns { width: .5rem; }
+ .w2-ns { width: 1rem; }
+ .w3-ns { width: 2rem; }
+ .w4-ns { width: 4rem; }
+ .w5-ns { width: 8rem; }
+ .w6-ns { width: 16rem; }
  .w-10-ns { width: 10%; }
  .w-20-ns { width: 20%; }
  .w-25-ns { width: 25%; }

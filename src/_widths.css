@@ -13,6 +13,7 @@
     3 = 3rd step in width scale
     4 = 4th step in width scale
     5 = 5th step in width scale
+    6 = 6th step in width scale
 
     -10  = literal value 10%
     -20  = literal value 20%
@@ -42,11 +43,12 @@
     -xl  = 80em
 
 */
-.w1 { width: 1rem; }
-.w2 { width: 2rem; }
-.w3 { width: 4rem; }
-.w4 { width: 8rem; }
-.w5 { width: 16rem; }
+.w1 { width: 0.5rem; }
+.w2 { width: 1rem; }
+.w3 { width: 2rem; }
+.w4 { width: 4rem; }
+.w5 { width: 8rem; }
+.w6 { width: 16rem; }
 .w-10 {  width:  10%; }
 .w-20 {  width:  20%; }
 .w-25 {  width:  25%; }
@@ -66,11 +68,12 @@
 .w-auto { width: auto; }
 
 					@media screen and (min-width: 20em) and (max-width: 40em) {
-						.w1-s { width: 1rem; }
-.w2-s { width: 2rem; }
-.w3-s { width: 4rem; }
-.w4-s { width: 8rem; }
-.w5-s { width: 16rem; }
+						.w1-s { width: 0.5rem; }
+.w2-s { width: 1rem; }
+.w3-s { width: 2rem; }
+.w4-s { width: 4rem; }
+.w5-s { width: 8rem; }
+.w6-s { width: 16rem; }
 .w-10-s {  width:  10%; }
 .w-20-s {  width:  20%; }
 .w-25-s {  width:  25%; }
@@ -92,11 +95,12 @@
 				
 
 					@media screen and (min-width: 40em) and (max-width: 64em) {
-						.w1-m { width: 1rem; }
-.w2-m { width: 2rem; }
-.w3-m { width: 4rem; }
-.w4-m { width: 8rem; }
-.w5-m { width: 16rem; }
+						.w1-m { width: 0.5rem; }
+.w2-m { width: 1rem; }
+.w3-m { width: 2rem; }
+.w4-m { width: 4rem; }
+.w5-m { width: 8rem; }
+.w6-m { width: 16rem; }
 .w-10-m {  width:  10%; }
 .w-20-m {  width:  20%; }
 .w-25-m {  width:  25%; }
@@ -118,11 +122,12 @@
 				
 
 					@media screen and (min-width: 64em) and (max-width: 80em) {
-						.w1-l { width: 1rem; }
-.w2-l { width: 2rem; }
-.w3-l { width: 4rem; }
-.w4-l { width: 8rem; }
-.w5-l { width: 16rem; }
+						.w1-l { width: 0.5rem; }
+.w2-l { width: 1rem; }
+.w3-l { width: 2rem; }
+.w4-l { width: 4rem; }
+.w5-l { width: 8rem; }
+.w6-l { width: 16rem; }
 .w-10-l {  width:  10%; }
 .w-20-l {  width:  20%; }
 .w-25-l {  width:  25%; }
@@ -144,11 +149,12 @@
 				
 
 					@media screen and (min-width: 80em) {
-						.w1-xl { width: 1rem; }
-.w2-xl { width: 2rem; }
-.w3-xl { width: 4rem; }
-.w4-xl { width: 8rem; }
-.w5-xl { width: 16rem; }
+						.w1-xl { width: 0.5rem; }
+.w2-xl { width: 1rem; }
+.w3-xl { width: 2rem; }
+.w4-xl { width: 4rem; }
+.w5-xl { width: 8rem; }
+.w6-xl { width: 16rem; }
 .w-10-xl {  width:  10%; }
 .w-20-xl {  width:  20%; }
 .w-25-xl {  width:  25%; }
@@ -170,11 +176,12 @@
 				
 
 					@media screen and (min-width: 40em) {
-						.w1-ns { width: 1rem; }
-.w2-ns { width: 2rem; }
-.w3-ns { width: 4rem; }
-.w4-ns { width: 8rem; }
-.w5-ns { width: 16rem; }
+						.w1-ns { width: 0.5rem; }
+.w2-ns { width: 1rem; }
+.w3-ns { width: 2rem; }
+.w4-ns { width: 4rem; }
+.w5-ns { width: 8rem; }
+.w6-ns { width: 16rem; }
 .w-10-ns {  width:  10%; }
 .w-20-ns {  width:  20%; }
 .w-25-ns {  width:  25%; }
