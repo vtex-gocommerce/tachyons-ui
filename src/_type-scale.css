@@ -15,79 +15,86 @@
     6 = 6th step in size scale
     7 = 7th step in size scale
     8 = 8th step in size scale
+    9 = 9th step in size scale
 
   Media Query Extensions:
-    -s  = 20em
-    -ns  = 40em
-    -m  = 40em
-    -l  = 64em
-    -xl  = 80em
+    -xs  = 36em
+    -s  = 48em
+    -m  = 62em
+    -l  = 75em
+    -xl  = 100em
 */
-.f1 { font-size: 3rem; }
-.f2 { font-size: 2.25rem; }
-.f3 { font-size: 1.5rem; }
+.f1 { font-size: 0.625rem; }
+.f2 { font-size: 0.875rem; }
+.f3 { font-size: 1rem; }
 .f4 { font-size: 1.25rem; }
-.f5 { font-size: 1.125rem; }
-.f6 { font-size: 1rem; }
-.f7 { font-size: 0.875rem; }
-.f8 { font-size: 0.75rem; }
+.f5 { font-size: 1.5rem; }
+.f6 { font-size: 2rem; }
+.f7 { font-size: 2.25rem; }
+.f8 { font-size: 2.5rem; }
+.f9 { font-size: 5rem; }
 
-					@media screen and (min-width: 20em) and (max-width: 40em) {
-						.f1-s { font-size: 3rem; }
-.f2-s { font-size: 2.25rem; }
-.f3-s { font-size: 1.5rem; }
+					@media screen and (min-width: 36em) and (max-width: 48em) {
+						.f1-xs { font-size: 0.625rem; }
+.f2-xs { font-size: 0.875rem; }
+.f3-xs { font-size: 1rem; }
+.f4-xs { font-size: 1.25rem; }
+.f5-xs { font-size: 1.5rem; }
+.f6-xs { font-size: 2rem; }
+.f7-xs { font-size: 2.25rem; }
+.f8-xs { font-size: 2.5rem; }
+.f9-xs { font-size: 5rem; }
+					}
+				
+
+					@media screen and (min-width: 48em) and (max-width: 62em) {
+						.f1-s { font-size: 0.625rem; }
+.f2-s { font-size: 0.875rem; }
+.f3-s { font-size: 1rem; }
 .f4-s { font-size: 1.25rem; }
-.f5-s { font-size: 1.125rem; }
-.f6-s { font-size: 1rem; }
-.f7-s { font-size: 0.875rem; }
-.f8-s { font-size: 0.75rem; }
+.f5-s { font-size: 1.5rem; }
+.f6-s { font-size: 2rem; }
+.f7-s { font-size: 2.25rem; }
+.f8-s { font-size: 2.5rem; }
+.f9-s { font-size: 5rem; }
 					}
 				
 
-					@media screen and (min-width: 40em) and (max-width: 64em) {
-						.f1-m { font-size: 3rem; }
-.f2-m { font-size: 2.25rem; }
-.f3-m { font-size: 1.5rem; }
+					@media screen and (min-width: 62em) and (max-width: 75em) {
+						.f1-m { font-size: 0.625rem; }
+.f2-m { font-size: 0.875rem; }
+.f3-m { font-size: 1rem; }
 .f4-m { font-size: 1.25rem; }
-.f5-m { font-size: 1.125rem; }
-.f6-m { font-size: 1rem; }
-.f7-m { font-size: 0.875rem; }
-.f8-m { font-size: 0.75rem; }
+.f5-m { font-size: 1.5rem; }
+.f6-m { font-size: 2rem; }
+.f7-m { font-size: 2.25rem; }
+.f8-m { font-size: 2.5rem; }
+.f9-m { font-size: 5rem; }
 					}
 				
 
-					@media screen and (min-width: 64em) and (max-width: 80em) {
-						.f1-l { font-size: 3rem; }
-.f2-l { font-size: 2.25rem; }
-.f3-l { font-size: 1.5rem; }
+					@media screen and (min-width: 75em) and (max-width: 100em) {
+						.f1-l { font-size: 0.625rem; }
+.f2-l { font-size: 0.875rem; }
+.f3-l { font-size: 1rem; }
 .f4-l { font-size: 1.25rem; }
-.f5-l { font-size: 1.125rem; }
-.f6-l { font-size: 1rem; }
-.f7-l { font-size: 0.875rem; }
-.f8-l { font-size: 0.75rem; }
+.f5-l { font-size: 1.5rem; }
+.f6-l { font-size: 2rem; }
+.f7-l { font-size: 2.25rem; }
+.f8-l { font-size: 2.5rem; }
+.f9-l { font-size: 5rem; }
 					}
 				
 
-					@media screen and (min-width: 80em) {
-						.f1-xl { font-size: 3rem; }
-.f2-xl { font-size: 2.25rem; }
-.f3-xl { font-size: 1.5rem; }
+					@media screen and (min-width: 100em) {
+						.f1-xl { font-size: 0.625rem; }
+.f2-xl { font-size: 0.875rem; }
+.f3-xl { font-size: 1rem; }
 .f4-xl { font-size: 1.25rem; }
-.f5-xl { font-size: 1.125rem; }
-.f6-xl { font-size: 1rem; }
-.f7-xl { font-size: 0.875rem; }
-.f8-xl { font-size: 0.75rem; }
-					}
-				
-
-					@media screen and (min-width: 40em) {
-						.f1-ns { font-size: 3rem; }
-.f2-ns { font-size: 2.25rem; }
-.f3-ns { font-size: 1.5rem; }
-.f4-ns { font-size: 1.25rem; }
-.f5-ns { font-size: 1.125rem; }
-.f6-ns { font-size: 1rem; }
-.f7-ns { font-size: 0.875rem; }
-.f8-ns { font-size: 0.75rem; }
+.f5-xl { font-size: 1.5rem; }
+.f6-xl { font-size: 2rem; }
+.f7-xl { font-size: 2.25rem; }
+.f8-xl { font-size: 2.5rem; }
+.f9-xl { font-size: 5rem; }
 					}
 				

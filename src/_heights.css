@@ -19,6 +19,13 @@
     6 = 6th step in height scale
     7 = 7th step in height scale
     8 = 8th step in height scale
+    9 = 9th step in height scale
+    10 = 10th step in height scale
+    11 = 11st step in height scale
+    12 = 12nd step in height scale
+    13 = 13rd step in height scale
+    14 = 14th step in height scale
+    15 = 15th step in height scale
 
     -25   = literal value 25%
     -50   = literal value 50%
@@ -29,21 +36,28 @@
     -inherit = string value of inherit
 
   Media Query Extensions:
-    -s  = 20em
-    -ns  = 40em
-    -m  = 40em
-    -l  = 64em
-    -xl  = 80em
+    -xs  = 36em
+    -s  = 48em
+    -m  = 62em
+    -l  = 75em
+    -xl  = 100em
 
 */
-.h1 { height: 0.5rem; }
-.h2 { height: 1rem; }
-.h3 { height: 2rem; }
-.h4 { height: 2.5rem; }
-.h5 { height: 4rem; }
-.h6 { height: 4.5rem; }
-.h7 { height: 8rem; }
-.h8 { height: 16rem; }
+.h1 { height: 0.25rem; }
+.h2 { height: 0.5rem; }
+.h3 { height: 0.75rem; }
+.h4 { height: 1rem; }
+.h5 { height: 1.25rem; }
+.h6 { height: 1.5rem; }
+.h7 { height: 1.75rem; }
+.h8 { height: 2rem; }
+.h9 { height: 2.25rem; }
+.h10 { height: 2.5rem; }
+.h11 { height: 3rem; }
+.h12 { height: 4rem; }
+.h13 { height: 5rem; }
+.h14 { height: 8rem; }
+.h15 { height: 16rem; }
 .h-25 { height: 25%; }
 .h-50 { height: 50%; }
 .h-75 { height: 75%; }
@@ -57,15 +71,53 @@
 .h-auto { height: auto; }
 .h-inherit { height: inherit; }
 
-					@media screen and (min-width: 20em) and (max-width: 40em) {
-						.h1-s { height: 0.5rem; }
-.h2-s { height: 1rem; }
-.h3-s { height: 2rem; }
-.h4-s { height: 2.5rem; }
-.h5-s { height: 4rem; }
-.h6-s { height: 4.5rem; }
-.h7-s { height: 8rem; }
-.h8-s { height: 16rem; }
+					@media screen and (min-width: 36em) and (max-width: 48em) {
+						.h1-xs { height: 0.25rem; }
+.h2-xs { height: 0.5rem; }
+.h3-xs { height: 0.75rem; }
+.h4-xs { height: 1rem; }
+.h5-xs { height: 1.25rem; }
+.h6-xs { height: 1.5rem; }
+.h7-xs { height: 1.75rem; }
+.h8-xs { height: 2rem; }
+.h9-xs { height: 2.25rem; }
+.h10-xs { height: 2.5rem; }
+.h11-xs { height: 3rem; }
+.h12-xs { height: 4rem; }
+.h13-xs { height: 5rem; }
+.h14-xs { height: 8rem; }
+.h15-xs { height: 16rem; }
+.h-25-xs { height: 25%; }
+.h-50-xs { height: 50%; }
+.h-75-xs { height: 75%; }
+.h-100-xs { height: 100%; }
+.min-h-100-xs { min-height: 100%; }
+.vh-25-xs { height: 25vh; }
+.vh-50-xs { height: 50vh; }
+.vh-75-xs { height: 75vh; }
+.vh-100-xs { height: 100vh; }
+.min-vh-100-xs { min-height: 100vh; }
+.h-auto-xs { height: auto; }
+.h-inherit-xs { height: inherit; }
+					}
+				
+
+					@media screen and (min-width: 48em) and (max-width: 62em) {
+						.h1-s { height: 0.25rem; }
+.h2-s { height: 0.5rem; }
+.h3-s { height: 0.75rem; }
+.h4-s { height: 1rem; }
+.h5-s { height: 1.25rem; }
+.h6-s { height: 1.5rem; }
+.h7-s { height: 1.75rem; }
+.h8-s { height: 2rem; }
+.h9-s { height: 2.25rem; }
+.h10-s { height: 2.5rem; }
+.h11-s { height: 3rem; }
+.h12-s { height: 4rem; }
+.h13-s { height: 5rem; }
+.h14-s { height: 8rem; }
+.h15-s { height: 16rem; }
 .h-25-s { height: 25%; }
 .h-50-s { height: 50%; }
 .h-75-s { height: 75%; }
@@ -81,15 +133,22 @@
 					}
 				
 
-					@media screen and (min-width: 40em) and (max-width: 64em) {
-						.h1-m { height: 0.5rem; }
-.h2-m { height: 1rem; }
-.h3-m { height: 2rem; }
-.h4-m { height: 2.5rem; }
-.h5-m { height: 4rem; }
-.h6-m { height: 4.5rem; }
-.h7-m { height: 8rem; }
-.h8-m { height: 16rem; }
+					@media screen and (min-width: 62em) and (max-width: 75em) {
+						.h1-m { height: 0.25rem; }
+.h2-m { height: 0.5rem; }
+.h3-m { height: 0.75rem; }
+.h4-m { height: 1rem; }
+.h5-m { height: 1.25rem; }
+.h6-m { height: 1.5rem; }
+.h7-m { height: 1.75rem; }
+.h8-m { height: 2rem; }
+.h9-m { height: 2.25rem; }
+.h10-m { height: 2.5rem; }
+.h11-m { height: 3rem; }
+.h12-m { height: 4rem; }
+.h13-m { height: 5rem; }
+.h14-m { height: 8rem; }
+.h15-m { height: 16rem; }
 .h-25-m { height: 25%; }
 .h-50-m { height: 50%; }
 .h-75-m { height: 75%; }
@@ -105,15 +164,22 @@
 					}
 				
 
-					@media screen and (min-width: 64em) and (max-width: 80em) {
-						.h1-l { height: 0.5rem; }
-.h2-l { height: 1rem; }
-.h3-l { height: 2rem; }
-.h4-l { height: 2.5rem; }
-.h5-l { height: 4rem; }
-.h6-l { height: 4.5rem; }
-.h7-l { height: 8rem; }
-.h8-l { height: 16rem; }
+					@media screen and (min-width: 75em) and (max-width: 100em) {
+						.h1-l { height: 0.25rem; }
+.h2-l { height: 0.5rem; }
+.h3-l { height: 0.75rem; }
+.h4-l { height: 1rem; }
+.h5-l { height: 1.25rem; }
+.h6-l { height: 1.5rem; }
+.h7-l { height: 1.75rem; }
+.h8-l { height: 2rem; }
+.h9-l { height: 2.25rem; }
+.h10-l { height: 2.5rem; }
+.h11-l { height: 3rem; }
+.h12-l { height: 4rem; }
+.h13-l { height: 5rem; }
+.h14-l { height: 8rem; }
+.h15-l { height: 16rem; }
 .h-25-l { height: 25%; }
 .h-50-l { height: 50%; }
 .h-75-l { height: 75%; }
@@ -129,15 +195,22 @@
 					}
 				
 
-					@media screen and (min-width: 80em) {
-						.h1-xl { height: 0.5rem; }
-.h2-xl { height: 1rem; }
-.h3-xl { height: 2rem; }
-.h4-xl { height: 2.5rem; }
-.h5-xl { height: 4rem; }
-.h6-xl { height: 4.5rem; }
-.h7-xl { height: 8rem; }
-.h8-xl { height: 16rem; }
+					@media screen and (min-width: 100em) {
+						.h1-xl { height: 0.25rem; }
+.h2-xl { height: 0.5rem; }
+.h3-xl { height: 0.75rem; }
+.h4-xl { height: 1rem; }
+.h5-xl { height: 1.25rem; }
+.h6-xl { height: 1.5rem; }
+.h7-xl { height: 1.75rem; }
+.h8-xl { height: 2rem; }
+.h9-xl { height: 2.25rem; }
+.h10-xl { height: 2.5rem; }
+.h11-xl { height: 3rem; }
+.h12-xl { height: 4rem; }
+.h13-xl { height: 5rem; }
+.h14-xl { height: 8rem; }
+.h15-xl { height: 16rem; }
 .h-25-xl { height: 25%; }
 .h-50-xl { height: 50%; }
 .h-75-xl { height: 75%; }
@@ -150,29 +223,5 @@
 .min-vh-100-xl { min-height: 100vh; }
 .h-auto-xl { height: auto; }
 .h-inherit-xl { height: inherit; }
-					}
-				
-
-					@media screen and (min-width: 40em) {
-						.h1-ns { height: 0.5rem; }
-.h2-ns { height: 1rem; }
-.h3-ns { height: 2rem; }
-.h4-ns { height: 2.5rem; }
-.h5-ns { height: 4rem; }
-.h6-ns { height: 4.5rem; }
-.h7-ns { height: 8rem; }
-.h8-ns { height: 16rem; }
-.h-25-ns { height: 25%; }
-.h-50-ns { height: 50%; }
-.h-75-ns { height: 75%; }
-.h-100-ns { height: 100%; }
-.min-h-100-ns { min-height: 100%; }
-.vh-25-ns { height: 25vh; }
-.vh-50-ns { height: 50vh; }
-.vh-75-ns { height: 75vh; }
-.vh-100-ns { height: 100vh; }
-.min-vh-100-ns { min-height: 100vh; }
-.h-auto-ns { height: auto; }
-.h-inherit-ns { height: inherit; }
 					}
 				

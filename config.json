@@ -1,57 +1,51 @@
 {
-  "typeScale": [3, 2.25, 1.5, 1.25, 1.125, 1, 0.875, 0.75],
-  "spacing": [0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2, 3, 4, 8, 16],
-  "customMedia": [
-    { "s": 20 },
-    {
-      "ns": {
-        "value": 40,
-        "minWidth": true
-      }
-    },
-    { "m": 40 },
-    { "l": 64 },
-    { "xl": 80 }
-  ],
+  "customMedia": [{ "xs": 36 }, { "s": 48 }, { "m": 62 }, { "l": 75 }, { "xl": 100 }],
   "colors": {
-    "white": "#ffffff",
+    "gc-blue": "#4B71FC",
+    "gc-blue-80": "#708FFF",
+    "gc-blue-60": "#91A9FF",
+    "gc-blue-40": "#BDCCFF",
+    "gc-blue-20": "#EAEFFF",
+
+    "gc-navy": "#212E5F",
+    "gc-navy-80": "#7B83A1",
+    "gc-navy-60": "#9FA6BF",
+    "gc-navy-40": "#D7DBE7",
+    "gc-navy-20": "#EFF1F9",
+
     "black": "#000000",
+    "white": "#ffffff",
 
-    "invisible-blue": "#F3F4F9",
-    "ash-blue": "#9FA6BF",
-    "go-blue": "#4B71FC",
-    "deep-blue": "#212E5F",
-    "deepest-blue": "#07133E",
+    "green": "#39B54A",
+    "green-light": "#E6FFEA",
 
-    "near-black": "#3d3e40",
-    "dark-gray": "#565759",
-    "mid-gray": "#6e7073",
-    "gray": "#939699",
-    "silver": "#c4c8cc",
-    "light-gray": "#dce1e6",
-    "light-silver": "#f0f5fa",
-    "near-white": "#f5faff",
+    "yellow": "#FFA721",
+    "yellow-light": "#FFF7E4",
 
-    "light-marine": "#3d5980",
-    "marine": "#25354d",
-    "serious-black": "#142032",
-
-    "green": "#09DD04",
-    "washed-green": "#e6fff9",
     "red": "#FF3D44",
-    "washed-red": "#fff2f2",
-    "yellow": "#ffb100",
-    "washed-yellow": "#fffbf2",
+    "red-light": "#FFE8E8",
 
-    "transparent": "rgba(0,0,0,0)"
+    "black-20": "rgba(0,0,0,.20)",
+    "black-40": "rgba(0,0,0,.40)",
+    "black-60": "rgba(0,0,0,.60)",
+    "black-80": "rgba(0,0,0,.80)",
+    "black-90": "rgba(0,0,0,.90)",
+    "white-20": "rgba(255,255,255,.20)",
+    "white-40": "rgba(255,255,255,.40)",
+    "white-60": "rgba(255,255,255,.60)",
+    "white-80": "rgba(255,255,255,.80)",
+    "white-90": "rgba(255,255,255,.90)",
+    "transparent": "transparent"
   },
-  "borderWidths": [0, 0.125, 0.25, 0.5, 1, 2],
+  "spacing": [0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2, 2.25, 2.5, 3, 4, 5, 8, 16],
+  "typeScale": [0.625, 0.875, 1, 1.25, 1.5, 2, 2.25, 2.5, 5],
+  "widths": [0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2, 2.25, 2.5, 3, 4, 5, 8, 16],
+  "maxWidths": [1, 2, 4, 8, 16, 32, 48, 64, 96],
+  "heights": [0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2, 2.25, 2.5, 3, 4, 5, 8, 16],
   "borderRadius": [0, 0.125, 0.25, 0.5, 1],
-  "widths": [0.5, 1, 2, 2.5, 4, 4.5, 8, 16],
-  "maxWidths": [0.5, 1, 2, 4, 4.5, 8, 16, 32, 48, 64, 96],
-  "heights": [0.5, 1, 2, 2.5, 4, 4.5, 8, 16],
+  "borderWidths": [0, 0.125, 0.25, 0.5, 1],
   "typography": {
-    "measure": [30, 34, 20]
+    "measure": [20, 30, 34]
   },
-  "opacity": [1, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1, 0.05, 0.025, 0]
+  "opacity": [1, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1, 0.05, 0]
 }

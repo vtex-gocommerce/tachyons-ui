@@ -12,7 +12,22 @@
 .fw9    { font-weight: 900; }
 
 
-					@media screen and (min-width: 20em) and (max-width: 40em) {
+					@media screen and (min-width: 36em) and (max-width: 48em) {
+						.normal-xs { font-weight: normal; }
+.b-xs      { font-weight: bold; }
+.fw1-xs    { font-weight: 100; }
+.fw2-xs    { font-weight: 200; }
+.fw3-xs    { font-weight: 300; }
+.fw4-xs    { font-weight: 400; }
+.fw5-xs    { font-weight: 500; }
+.fw6-xs    { font-weight: 600; }
+.fw7-xs    { font-weight: 700; }
+.fw8-xs    { font-weight: 800; }
+.fw9-xs    { font-weight: 900; }
+					}
+				
+
+					@media screen and (min-width: 48em) and (max-width: 62em) {
 						.normal-s { font-weight: normal; }
 .b-s      { font-weight: bold; }
 .fw1-s    { font-weight: 100; }
@@ -27,7 +42,7 @@
 					}
 				
 
-					@media screen and (min-width: 40em) and (max-width: 64em) {
+					@media screen and (min-width: 62em) and (max-width: 75em) {
 						.normal-m { font-weight: normal; }
 .b-m      { font-weight: bold; }
 .fw1-m    { font-weight: 100; }
@@ -42,7 +57,7 @@
 					}
 				
 
-					@media screen and (min-width: 64em) and (max-width: 80em) {
+					@media screen and (min-width: 75em) and (max-width: 100em) {
 						.normal-l { font-weight: normal; }
 .b-l      { font-weight: bold; }
 .fw1-l    { font-weight: 100; }
@@ -57,7 +72,7 @@
 					}
 				
 
-					@media screen and (min-width: 80em) {
+					@media screen and (min-width: 100em) {
 						.normal-xl { font-weight: normal; }
 .b-xl      { font-weight: bold; }
 .fw1-xl    { font-weight: 100; }
@@ -69,20 +84,5 @@
 .fw7-xl    { font-weight: 700; }
 .fw8-xl    { font-weight: 800; }
 .fw9-xl    { font-weight: 900; }
-					}
-				
-
-					@media screen and (min-width: 40em) {
-						.normal-ns { font-weight: normal; }
-.b-ns      { font-weight: bold; }
-.fw1-ns    { font-weight: 100; }
-.fw2-ns    { font-weight: 200; }
-.fw3-ns    { font-weight: 300; }
-.fw4-ns    { font-weight: 400; }
-.fw5-ns    { font-weight: 500; }
-.fw6-ns    { font-weight: 600; }
-.fw7-ns    { font-weight: 700; }
-.fw8-ns    { font-weight: 800; }
-.fw9-ns    { font-weight: 900; }
 					}
 				

@@ -19,7 +19,6 @@
     -20 = literal value 0.2
     -10 = literal value 0.1
     -05 = literal value 0.05
-    -025 = literal value 0.025
     -0 = literal value 0
 
 */
@@ -35,10 +34,25 @@
 .o-20 { opacity: 0.2; }
 .o-10 { opacity: 0.1; }
 .o-05 { opacity: 0.05; }
-.o-025 { opacity: 0.025; }
 .o-0 { opacity: 0; }
 
-					@media screen and (min-width: 20em) and (max-width: 40em) {
+					@media screen and (min-width: 36em) and (max-width: 48em) {
+						.o-100-xs { opacity: 1; }
+.o-90-xs { opacity: 0.9; }
+.o-80-xs { opacity: 0.8; }
+.o-70-xs { opacity: 0.7; }
+.o-60-xs { opacity: 0.6; }
+.o-50-xs { opacity: 0.5; }
+.o-40-xs { opacity: 0.4; }
+.o-30-xs { opacity: 0.3; }
+.o-20-xs { opacity: 0.2; }
+.o-10-xs { opacity: 0.1; }
+.o-05-xs { opacity: 0.05; }
+.o-0-xs { opacity: 0; }
+					}
+				
+
+					@media screen and (min-width: 48em) and (max-width: 62em) {
 						.o-100-s { opacity: 1; }
 .o-90-s { opacity: 0.9; }
 .o-80-s { opacity: 0.8; }
@@ -50,12 +64,11 @@
 .o-20-s { opacity: 0.2; }
 .o-10-s { opacity: 0.1; }
 .o-05-s { opacity: 0.05; }
-.o-025-s { opacity: 0.025; }
 .o-0-s { opacity: 0; }
 					}
 				
 
-					@media screen and (min-width: 40em) and (max-width: 64em) {
+					@media screen and (min-width: 62em) and (max-width: 75em) {
 						.o-100-m { opacity: 1; }
 .o-90-m { opacity: 0.9; }
 .o-80-m { opacity: 0.8; }
@@ -67,12 +80,11 @@
 .o-20-m { opacity: 0.2; }
 .o-10-m { opacity: 0.1; }
 .o-05-m { opacity: 0.05; }
-.o-025-m { opacity: 0.025; }
 .o-0-m { opacity: 0; }
 					}
 				
 
-					@media screen and (min-width: 64em) and (max-width: 80em) {
+					@media screen and (min-width: 75em) and (max-width: 100em) {
 						.o-100-l { opacity: 1; }
 .o-90-l { opacity: 0.9; }
 .o-80-l { opacity: 0.8; }
@@ -84,12 +96,11 @@
 .o-20-l { opacity: 0.2; }
 .o-10-l { opacity: 0.1; }
 .o-05-l { opacity: 0.05; }
-.o-025-l { opacity: 0.025; }
 .o-0-l { opacity: 0; }
 					}
 				
 
-					@media screen and (min-width: 80em) {
+					@media screen and (min-width: 100em) {
 						.o-100-xl { opacity: 1; }
 .o-90-xl { opacity: 0.9; }
 .o-80-xl { opacity: 0.8; }
@@ -101,24 +112,6 @@
 .o-20-xl { opacity: 0.2; }
 .o-10-xl { opacity: 0.1; }
 .o-05-xl { opacity: 0.05; }
-.o-025-xl { opacity: 0.025; }
 .o-0-xl { opacity: 0; }
-					}
-				
-
-					@media screen and (min-width: 40em) {
-						.o-100-ns { opacity: 1; }
-.o-90-ns { opacity: 0.9; }
-.o-80-ns { opacity: 0.8; }
-.o-70-ns { opacity: 0.7; }
-.o-60-ns { opacity: 0.6; }
-.o-50-ns { opacity: 0.5; }
-.o-40-ns { opacity: 0.4; }
-.o-30-ns { opacity: 0.3; }
-.o-20-ns { opacity: 0.2; }
-.o-10-ns { opacity: 0.1; }
-.o-05-ns { opacity: 0.05; }
-.o-025-ns { opacity: 0.025; }
-.o-0-ns { opacity: 0; }
 					}
 				
