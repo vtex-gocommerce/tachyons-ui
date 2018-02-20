@@ -13,9 +13,6 @@
     "navy-40": "#D7DBE7",
     "navy-20": "#EFF1F9",
 
-    "black": "#000000",
-    "white": "#ffffff",
-
     "green": "#39B54A",
     "green-light": "#E6FFEA",
 
@@ -24,6 +21,9 @@
 
     "red": "#FF3D44",
     "red-light": "#FFE8E8",
+
+    "black": "#000000",
+    "white": "#ffffff",
 
     "black-20": "rgba(0,0,0,.20)",
     "black-40": "rgba(0,0,0,.40)",
