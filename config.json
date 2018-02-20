@@ -1,17 +1,17 @@
 {
   "customMedia": [{ "xs": 36 }, { "s": 48 }, { "m": 62 }, { "l": 75 }, { "xl": 100 }],
   "colors": {
-    "gc-blue": "#4B71FC",
-    "gc-blue-80": "#708FFF",
-    "gc-blue-60": "#91A9FF",
-    "gc-blue-40": "#BDCCFF",
-    "gc-blue-20": "#EAEFFF",
+    "blue": "#4B71FC",
+    "blue-80": "#708FFF",
+    "blue-60": "#91A9FF",
+    "blue-40": "#BDCCFF",
+    "blue-20": "#EAEFFF",
 
-    "gc-navy": "#212E5F",
-    "gc-navy-80": "#7B83A1",
-    "gc-navy-60": "#9FA6BF",
-    "gc-navy-40": "#D7DBE7",
-    "gc-navy-20": "#EFF1F9",
+    "navy": "#212E5F",
+    "navy-80": "#7B83A1",
+    "navy-60": "#9FA6BF",
+    "navy-40": "#D7DBE7",
+    "navy-20": "#EFF1F9",
 
     "black": "#000000",
     "white": "#ffffff",
