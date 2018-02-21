@@ -119,6 +119,8 @@ template { display: none; }
 .bg-right { background-repeat: no-repeat; background-position: center right; }
 .bg-bottom { background-repeat: no-repeat; background-position: bottom center; }
 .bg-left { background-repeat: no-repeat; background-position: center left; }
+.bg-x { background-repeat: repeat-x !important; }
+.bg-y { background-repeat: repeat-y !important; }
 .ba { border-style: solid; border-width: 1px; }
 .bt { border-top-style: solid; border-top-width: 1px; }
 .br { border-right-style: solid; border-right-width: 1px; }
@@ -1436,6 +1438,8 @@ img { max-width: 100%; }
  .bg-right-xs { background-repeat: no-repeat; background-position: center right; }
  .bg-bottom-xs { background-repeat: no-repeat; background-position: bottom center; }
  .bg-left-xs { background-repeat: no-repeat; background-position: center left; }
+ .bg-x-xs { background-repeat: repeat-x !important; }
+ .bg-y-xs { background-repeat: repeat-y !important; }
  .ba-xs { border-style: solid; border-width: 1px; }
  .bt-xs { border-top-style: solid; border-top-width: 1px; }
  .br-xs { border-right-style: solid; border-right-width: 1px; }
@@ -2073,6 +2077,8 @@ img { max-width: 100%; }
  .bg-right-s { background-repeat: no-repeat; background-position: center right; }
  .bg-bottom-s { background-repeat: no-repeat; background-position: bottom center; }
  .bg-left-s { background-repeat: no-repeat; background-position: center left; }
+ .bg-x-s { background-repeat: repeat-x !important; }
+ .bg-y-s { background-repeat: repeat-y !important; }
  .ba-s { border-style: solid; border-width: 1px; }
  .bt-s { border-top-style: solid; border-top-width: 1px; }
  .br-s { border-right-style: solid; border-right-width: 1px; }
@@ -2710,6 +2716,8 @@ img { max-width: 100%; }
  .bg-right-m { background-repeat: no-repeat; background-position: center right; }
  .bg-bottom-m { background-repeat: no-repeat; background-position: bottom center; }
  .bg-left-m { background-repeat: no-repeat; background-position: center left; }
+ .bg-x-m { background-repeat: repeat-x !important; }
+ .bg-y-m { background-repeat: repeat-y !important; }
  .ba-m { border-style: solid; border-width: 1px; }
  .bt-m { border-top-style: solid; border-top-width: 1px; }
  .br-m { border-right-style: solid; border-right-width: 1px; }
@@ -3347,6 +3355,8 @@ img { max-width: 100%; }
  .bg-right-l { background-repeat: no-repeat; background-position: center right; }
  .bg-bottom-l { background-repeat: no-repeat; background-position: bottom center; }
  .bg-left-l { background-repeat: no-repeat; background-position: center left; }
+ .bg-x-l { background-repeat: repeat-x !important; }
+ .bg-y-l { background-repeat: repeat-y !important; }
  .ba-l { border-style: solid; border-width: 1px; }
  .bt-l { border-top-style: solid; border-top-width: 1px; }
  .br-l { border-right-style: solid; border-right-width: 1px; }
@@ -3984,6 +3994,8 @@ img { max-width: 100%; }
  .bg-right-xl { background-repeat: no-repeat; background-position: center right; }
  .bg-bottom-xl { background-repeat: no-repeat; background-position: bottom center; }
  .bg-left-xl { background-repeat: no-repeat; background-position: center left; }
+ .bg-x-xl { background-repeat: repeat-x !important; }
+ .bg-y-xl { background-repeat: repeat-y !important; }
  .ba-xl { border-style: solid; border-width: 1px; }
  .bt-xl { border-top-style: solid; border-top-width: 1px; }
  .br-xl { border-right-style: solid; border-right-width: 1px; }
