@@ -1142,6 +1142,8 @@ img { max-width: 100%; }
 .shadow-hover::after { content: ''; box-shadow: 0 0 16px 2px rgba( 0, 0, 0, .2 ); border-radius: inherit; opacity: 0; position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; transition: opacity .5s cubic-bezier( .165, .84, .44, 1 ); }
 .shadow-hover:hover::after, .shadow-hover:focus::after { opacity: 1; }
 .bg-animate, .bg-animate:hover, .bg-animate:focus { transition: background-color .15s ease-in-out; }
+.border-animate, .border-animate:hover, .border-animate:focus { transition: border-color .15s ease-in-out; }
+.all-animate, .all-animate:hover, .all-animate:focus { transition: all .15s ease-in-out; }
 /*
 
   OPACITY
