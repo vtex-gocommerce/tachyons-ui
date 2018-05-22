@@ -23,95 +23,95 @@
 
 */
 
-.o-100 { opacity: 1; }
-.o-90 { opacity: 0.9; }
-.o-80 { opacity: 0.8; }
-.o-70 { opacity: 0.7; }
-.o-60 { opacity: 0.6; }
-.o-50 { opacity: 0.5; }
-.o-40 { opacity: 0.4; }
-.o-30 { opacity: 0.3; }
-.o-20 { opacity: 0.2; }
-.o-10 { opacity: 0.1; }
-.o-05 { opacity: 0.05; }
-.o-0 { opacity: 0; }
+.g-o-100 { opacity: 1; }
+.g-o-90 { opacity: 0.9; }
+.g-o-80 { opacity: 0.8; }
+.g-o-70 { opacity: 0.7; }
+.g-o-60 { opacity: 0.6; }
+.g-o-50 { opacity: 0.5; }
+.g-o-40 { opacity: 0.4; }
+.g-o-30 { opacity: 0.3; }
+.g-o-20 { opacity: 0.2; }
+.g-o-10 { opacity: 0.1; }
+.g-o-05 { opacity: 0.05; }
+.g-o-0 { opacity: 0; }
 
 					@media screen and (min-width: 36em) and (max-width: 48em) {
-						.o-100-xs { opacity: 1; }
-.o-90-xs { opacity: 0.9; }
-.o-80-xs { opacity: 0.8; }
-.o-70-xs { opacity: 0.7; }
-.o-60-xs { opacity: 0.6; }
-.o-50-xs { opacity: 0.5; }
-.o-40-xs { opacity: 0.4; }
-.o-30-xs { opacity: 0.3; }
-.o-20-xs { opacity: 0.2; }
-.o-10-xs { opacity: 0.1; }
-.o-05-xs { opacity: 0.05; }
-.o-0-xs { opacity: 0; }
+						.g-o-100-xs { opacity: 1; }
+.g-o-90-xs { opacity: 0.9; }
+.g-o-80-xs { opacity: 0.8; }
+.g-o-70-xs { opacity: 0.7; }
+.g-o-60-xs { opacity: 0.6; }
+.g-o-50-xs { opacity: 0.5; }
+.g-o-40-xs { opacity: 0.4; }
+.g-o-30-xs { opacity: 0.3; }
+.g-o-20-xs { opacity: 0.2; }
+.g-o-10-xs { opacity: 0.1; }
+.g-o-05-xs { opacity: 0.05; }
+.g-o-0-xs { opacity: 0; }
 					}
 				
 
 					@media screen and (min-width: 48em) and (max-width: 62em) {
-						.o-100-s { opacity: 1; }
-.o-90-s { opacity: 0.9; }
-.o-80-s { opacity: 0.8; }
-.o-70-s { opacity: 0.7; }
-.o-60-s { opacity: 0.6; }
-.o-50-s { opacity: 0.5; }
-.o-40-s { opacity: 0.4; }
-.o-30-s { opacity: 0.3; }
-.o-20-s { opacity: 0.2; }
-.o-10-s { opacity: 0.1; }
-.o-05-s { opacity: 0.05; }
-.o-0-s { opacity: 0; }
+						.g-o-100-s { opacity: 1; }
+.g-o-90-s { opacity: 0.9; }
+.g-o-80-s { opacity: 0.8; }
+.g-o-70-s { opacity: 0.7; }
+.g-o-60-s { opacity: 0.6; }
+.g-o-50-s { opacity: 0.5; }
+.g-o-40-s { opacity: 0.4; }
+.g-o-30-s { opacity: 0.3; }
+.g-o-20-s { opacity: 0.2; }
+.g-o-10-s { opacity: 0.1; }
+.g-o-05-s { opacity: 0.05; }
+.g-o-0-s { opacity: 0; }
 					}
 				
 
 					@media screen and (min-width: 62em) and (max-width: 75em) {
-						.o-100-m { opacity: 1; }
-.o-90-m { opacity: 0.9; }
-.o-80-m { opacity: 0.8; }
-.o-70-m { opacity: 0.7; }
-.o-60-m { opacity: 0.6; }
-.o-50-m { opacity: 0.5; }
-.o-40-m { opacity: 0.4; }
-.o-30-m { opacity: 0.3; }
-.o-20-m { opacity: 0.2; }
-.o-10-m { opacity: 0.1; }
-.o-05-m { opacity: 0.05; }
-.o-0-m { opacity: 0; }
+						.g-o-100-m { opacity: 1; }
+.g-o-90-m { opacity: 0.9; }
+.g-o-80-m { opacity: 0.8; }
+.g-o-70-m { opacity: 0.7; }
+.g-o-60-m { opacity: 0.6; }
+.g-o-50-m { opacity: 0.5; }
+.g-o-40-m { opacity: 0.4; }
+.g-o-30-m { opacity: 0.3; }
+.g-o-20-m { opacity: 0.2; }
+.g-o-10-m { opacity: 0.1; }
+.g-o-05-m { opacity: 0.05; }
+.g-o-0-m { opacity: 0; }
 					}
 				
 
 					@media screen and (min-width: 75em) and (max-width: 100em) {
-						.o-100-l { opacity: 1; }
-.o-90-l { opacity: 0.9; }
-.o-80-l { opacity: 0.8; }
-.o-70-l { opacity: 0.7; }
-.o-60-l { opacity: 0.6; }
-.o-50-l { opacity: 0.5; }
-.o-40-l { opacity: 0.4; }
-.o-30-l { opacity: 0.3; }
-.o-20-l { opacity: 0.2; }
-.o-10-l { opacity: 0.1; }
-.o-05-l { opacity: 0.05; }
-.o-0-l { opacity: 0; }
+						.g-o-100-l { opacity: 1; }
+.g-o-90-l { opacity: 0.9; }
+.g-o-80-l { opacity: 0.8; }
+.g-o-70-l { opacity: 0.7; }
+.g-o-60-l { opacity: 0.6; }
+.g-o-50-l { opacity: 0.5; }
+.g-o-40-l { opacity: 0.4; }
+.g-o-30-l { opacity: 0.3; }
+.g-o-20-l { opacity: 0.2; }
+.g-o-10-l { opacity: 0.1; }
+.g-o-05-l { opacity: 0.05; }
+.g-o-0-l { opacity: 0; }
 					}
 				
 
 					@media screen and (min-width: 100em) {
-						.o-100-xl { opacity: 1; }
-.o-90-xl { opacity: 0.9; }
-.o-80-xl { opacity: 0.8; }
-.o-70-xl { opacity: 0.7; }
-.o-60-xl { opacity: 0.6; }
-.o-50-xl { opacity: 0.5; }
-.o-40-xl { opacity: 0.4; }
-.o-30-xl { opacity: 0.3; }
-.o-20-xl { opacity: 0.2; }
-.o-10-xl { opacity: 0.1; }
-.o-05-xl { opacity: 0.05; }
-.o-0-xl { opacity: 0; }
+						.g-o-100-xl { opacity: 1; }
+.g-o-90-xl { opacity: 0.9; }
+.g-o-80-xl { opacity: 0.8; }
+.g-o-70-xl { opacity: 0.7; }
+.g-o-60-xl { opacity: 0.6; }
+.g-o-50-xl { opacity: 0.5; }
+.g-o-40-xl { opacity: 0.4; }
+.g-o-30-xl { opacity: 0.3; }
+.g-o-20-xl { opacity: 0.2; }
+.g-o-10-xl { opacity: 0.1; }
+.g-o-05-xl { opacity: 0.05; }
+.g-o-0-xl { opacity: 0; }
 					}
 				

@@ -24,77 +24,77 @@
     -l  = 75em
     -xl  = 100em
 */
-.f1 { font-size: 0.75rem; }
-.f2 { font-size: 0.875rem; }
-.f3 { font-size: 1rem; }
-.f4 { font-size: 1.25rem; }
-.f5 { font-size: 1.5rem; }
-.f6 { font-size: 2rem; }
-.f7 { font-size: 2.25rem; }
-.f8 { font-size: 2.5rem; }
-.f9 { font-size: 5rem; }
+.g-f1 { font-size: 0.75rem; }
+.g-f2 { font-size: 0.875rem; }
+.g-f3 { font-size: 1rem; }
+.g-f4 { font-size: 1.25rem; }
+.g-f5 { font-size: 1.5rem; }
+.g-f6 { font-size: 2rem; }
+.g-f7 { font-size: 2.25rem; }
+.g-f8 { font-size: 2.5rem; }
+.g-f9 { font-size: 5rem; }
 
 					@media screen and (min-width: 36em) and (max-width: 48em) {
-						.f1-xs { font-size: 0.75rem; }
-.f2-xs { font-size: 0.875rem; }
-.f3-xs { font-size: 1rem; }
-.f4-xs { font-size: 1.25rem; }
-.f5-xs { font-size: 1.5rem; }
-.f6-xs { font-size: 2rem; }
-.f7-xs { font-size: 2.25rem; }
-.f8-xs { font-size: 2.5rem; }
-.f9-xs { font-size: 5rem; }
+						.g-f1-xs { font-size: 0.75rem; }
+.g-f2-xs { font-size: 0.875rem; }
+.g-f3-xs { font-size: 1rem; }
+.g-f4-xs { font-size: 1.25rem; }
+.g-f5-xs { font-size: 1.5rem; }
+.g-f6-xs { font-size: 2rem; }
+.g-f7-xs { font-size: 2.25rem; }
+.g-f8-xs { font-size: 2.5rem; }
+.g-f9-xs { font-size: 5rem; }
 					}
 				
 
 					@media screen and (min-width: 48em) and (max-width: 62em) {
-						.f1-s { font-size: 0.75rem; }
-.f2-s { font-size: 0.875rem; }
-.f3-s { font-size: 1rem; }
-.f4-s { font-size: 1.25rem; }
-.f5-s { font-size: 1.5rem; }
-.f6-s { font-size: 2rem; }
-.f7-s { font-size: 2.25rem; }
-.f8-s { font-size: 2.5rem; }
-.f9-s { font-size: 5rem; }
+						.g-f1-s { font-size: 0.75rem; }
+.g-f2-s { font-size: 0.875rem; }
+.g-f3-s { font-size: 1rem; }
+.g-f4-s { font-size: 1.25rem; }
+.g-f5-s { font-size: 1.5rem; }
+.g-f6-s { font-size: 2rem; }
+.g-f7-s { font-size: 2.25rem; }
+.g-f8-s { font-size: 2.5rem; }
+.g-f9-s { font-size: 5rem; }
 					}
 				
 
 					@media screen and (min-width: 62em) and (max-width: 75em) {
-						.f1-m { font-size: 0.75rem; }
-.f2-m { font-size: 0.875rem; }
-.f3-m { font-size: 1rem; }
-.f4-m { font-size: 1.25rem; }
-.f5-m { font-size: 1.5rem; }
-.f6-m { font-size: 2rem; }
-.f7-m { font-size: 2.25rem; }
-.f8-m { font-size: 2.5rem; }
-.f9-m { font-size: 5rem; }
+						.g-f1-m { font-size: 0.75rem; }
+.g-f2-m { font-size: 0.875rem; }
+.g-f3-m { font-size: 1rem; }
+.g-f4-m { font-size: 1.25rem; }
+.g-f5-m { font-size: 1.5rem; }
+.g-f6-m { font-size: 2rem; }
+.g-f7-m { font-size: 2.25rem; }
+.g-f8-m { font-size: 2.5rem; }
+.g-f9-m { font-size: 5rem; }
 					}
 				
 
 					@media screen and (min-width: 75em) and (max-width: 100em) {
-						.f1-l { font-size: 0.75rem; }
-.f2-l { font-size: 0.875rem; }
-.f3-l { font-size: 1rem; }
-.f4-l { font-size: 1.25rem; }
-.f5-l { font-size: 1.5rem; }
-.f6-l { font-size: 2rem; }
-.f7-l { font-size: 2.25rem; }
-.f8-l { font-size: 2.5rem; }
-.f9-l { font-size: 5rem; }
+						.g-f1-l { font-size: 0.75rem; }
+.g-f2-l { font-size: 0.875rem; }
+.g-f3-l { font-size: 1rem; }
+.g-f4-l { font-size: 1.25rem; }
+.g-f5-l { font-size: 1.5rem; }
+.g-f6-l { font-size: 2rem; }
+.g-f7-l { font-size: 2.25rem; }
+.g-f8-l { font-size: 2.5rem; }
+.g-f9-l { font-size: 5rem; }
 					}
 				
 
 					@media screen and (min-width: 100em) {
-						.f1-xl { font-size: 0.75rem; }
-.f2-xl { font-size: 0.875rem; }
-.f3-xl { font-size: 1rem; }
-.f4-xl { font-size: 1.25rem; }
-.f5-xl { font-size: 1.5rem; }
-.f6-xl { font-size: 2rem; }
-.f7-xl { font-size: 2.25rem; }
-.f8-xl { font-size: 2.5rem; }
-.f9-xl { font-size: 5rem; }
+						.g-f1-xl { font-size: 0.75rem; }
+.g-f2-xl { font-size: 0.875rem; }
+.g-f3-xl { font-size: 1rem; }
+.g-f4-xl { font-size: 1.25rem; }
+.g-f5-xl { font-size: 1.5rem; }
+.g-f6-xl { font-size: 2rem; }
+.g-f7-xl { font-size: 2.25rem; }
+.g-f8-xl { font-size: 2.5rem; }
+.g-f9-xl { font-size: 5rem; }
 					}
 				
