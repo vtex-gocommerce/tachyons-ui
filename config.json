@@ -1,11 +1,32 @@
 {
   "customMedia": [{ "xs": 36 }, { "s": 48 }, { "m": 62 }, { "l": 75 }, { "xl": 100 }],
   "colors": {
+
+    "base-1":"#FFFFFF", 
+    "base-2":"#F9FAFC", 
+    "base-3":"#E7E9F0", 
+    "base-4":"#D7DBE7", 
+    "base-inverted-1":"#545A70",
+    "base-inverted-2":"#6D7285", 
+    "primary":"#4B71FC",
+    "success":"#7ED321",
+    "light-success":"#F8FDF4",
+    "danger":"#FF3D44",
+    "light-danger":"#FFF5F5",
+    "warning":"#FFA721",
+    "light-warning":"#FFFAF4",
+    "on-base-1":"#212E5F", 
+    "on-base-2":"#7B83A1", 
+    "on-base-inverted-1":"#FFFFFF",
+    "on-base-inverted-2":"#FFFFFF",
+ 
     "blue": "#4B71FC",
     "blue-80": "#6F8DFD",
     "blue-60": "#93AAFD",
     "blue-40": "#B7C6FE",
     "blue-20": "#DBE3FE",
+
+    "dark-blue": "#212E5F",
 
     "navy": "#545A70",
     "navy-80": "#767B8D",
