@@ -39,6 +39,7 @@
 .bg-on-base-2 { background-color: #7b83a1; }
 .bg-on-base-inverted-1 { background-color: #fff; }
 .bg-on-base-inverted-2 { background-color: #fff; }
+.bg-on-primary { background-color: #fff; }
 .bg-blue { background-color: #4b71fc; }
 .bg-blue-80 { background-color: #6f8dfd; }
 .bg-blue-60 { background-color: #93aafd; }
@@ -86,6 +87,7 @@
 .b--on-base-2 { border-color: #7b83a1; }
 .b--on-base-inverted-1 { border-color: #fff; }
 .b--on-base-inverted-2 { border-color: #fff; }
+.b--on-primary { border-color: #fff; }
 .b--blue { border-color: #4b71fc; }
 .b--blue-80 { border-color: #6f8dfd; }
 .b--blue-60 { border-color: #93aafd; }
@@ -136,6 +138,7 @@
 .c-on-base-2 { color: #7b83a1; }
 .c-on-base-inverted-1 { color: #fff; }
 .c-on-base-inverted-2 { color: #fff; }
+.c-on-primary { color: #fff; }
 .c-blue { color: #4b71fc; }
 .c-blue-80 { color: #6f8dfd; }
 .c-blue-60 { color: #93aafd; }
@@ -623,6 +626,7 @@
 .bg-on-base-2 { background-color: #7b83a1; }
 .bg-on-base-inverted-1 { background-color: #fff; }
 .bg-on-base-inverted-2 { background-color: #fff; }
+.bg-on-primary { background-color: #fff; }
 .bg-blue { background-color: #4b71fc; }
 .bg-blue-80 { background-color: #6f8dfd; }
 .bg-blue-60 { background-color: #93aafd; }
@@ -670,6 +674,7 @@
 .c-on-base-2 { color: #7b83a1; }
 .c-on-base-inverted-1 { color: #fff; }
 .c-on-base-inverted-2 { color: #fff; }
+.c-on-primary { color: #fff; }
 .c-blue { color: #4b71fc; }
 .c-blue-80 { color: #6f8dfd; }
 .c-blue-60 { color: #93aafd; }
@@ -802,6 +807,12 @@
 .hover-bg-on-base-inverted-2:hover { background-color: #fff; }
 .hover-b--on-base-inverted-2:focus { border-color: #fff; }
 .hover-b--on-base-inverted-2:hover { border-color: #fff; }
+.hover-c-on-primary:focus { color: #fff; }
+.hover-c-on-primary:hover { color: #fff; }
+.hover-bg-on-primary:focus { background-color: #fff; }
+.hover-bg-on-primary:hover { background-color: #fff; }
+.hover-b--on-primary:focus { border-color: #fff; }
+.hover-b--on-primary:hover { border-color: #fff; }
 .hover-c-blue:focus { color: #4b71fc; }
 .hover-c-blue:hover { color: #4b71fc; }
 .hover-bg-blue:focus { background-color: #4b71fc; }
@@ -1193,6 +1204,7 @@
 .c-on-base-2 { color: #7b83a1; }
 .c-on-base-inverted-1 { color: #fff; }
 .c-on-base-inverted-2 { color: #fff; }
+.c-on-primary { color: #fff; }
 .c-blue { color: #4b71fc; }
 .c-blue-80 { color: #6f8dfd; }
 .c-blue-60 { color: #93aafd; }
