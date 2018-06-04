@@ -20,6 +20,8 @@
     "on-base-inverted-1":"#FFFFFF",
     "on-base-inverted-2":"#FFFFFF",
     "on-primary":"#FFFFFF",
+    "on-danger":"#FFFFFF",
+    "on-success":"#FFFFFF",
  
     "blue": "#4B71FC",
     "blue-80": "#6F8DFD",
