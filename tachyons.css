@@ -34,6 +34,7 @@
 .bg-secondary { background-color: #545a70; }
 .bg-dark-secondary { background-color: #363a48; }
 .bg-active-secondary { background-color: #15161c; }
+.bg-info { background-color: #4b71fc; }
 .bg-success { background-color: #7ed321; }
 .bg-light-success { background-color: #f8fdf4; }
 .bg-danger { background-color: #ff3d44; }
@@ -79,6 +80,7 @@
 .b--secondary { border-color: #545a70; }
 .b--dark-secondary { border-color: #363a48; }
 .b--active-secondary { border-color: #15161c; }
+.b--info { border-color: #4b71fc; }
 .b--success { border-color: #7ed321; }
 .b--light-success { border-color: #f8fdf4; }
 .b--danger { border-color: #ff3d44; }
@@ -127,6 +129,7 @@
 .c-secondary { color: #545a70; }
 .c-dark-secondary { color: #363a48; }
 .c-active-secondary { color: #15161c; }
+.c-info { color: #4b71fc; }
 .c-success { color: #7ed321; }
 .c-light-success { color: #f8fdf4; }
 .c-danger { color: #ff3d44; }
@@ -612,6 +615,7 @@
 .bg-secondary { background-color: #545a70; }
 .bg-dark-secondary { background-color: #363a48; }
 .bg-active-secondary { background-color: #15161c; }
+.bg-info { background-color: #4b71fc; }
 .bg-success { background-color: #7ed321; }
 .bg-light-success { background-color: #f8fdf4; }
 .bg-danger { background-color: #ff3d44; }
@@ -657,6 +661,7 @@
 .c-secondary { color: #545a70; }
 .c-dark-secondary { color: #363a48; }
 .c-active-secondary { color: #15161c; }
+.c-info { color: #4b71fc; }
 .c-success { color: #7ed321; }
 .c-light-success { color: #f8fdf4; }
 .c-danger { color: #ff3d44; }
@@ -762,6 +767,12 @@
 .hover-bg-active-secondary:hover { background-color: #15161c; }
 .hover-b--active-secondary:focus { border-color: #15161c; }
 .hover-b--active-secondary:hover { border-color: #15161c; }
+.hover-c-info:focus { color: #4b71fc; }
+.hover-c-info:hover { color: #4b71fc; }
+.hover-bg-info:focus { background-color: #4b71fc; }
+.hover-bg-info:hover { background-color: #4b71fc; }
+.hover-b--info:focus { border-color: #4b71fc; }
+.hover-b--info:hover { border-color: #4b71fc; }
 .hover-c-success:focus { color: #7ed321; }
 .hover-c-success:hover { color: #7ed321; }
 .hover-bg-success:focus { background-color: #7ed321; }
@@ -1166,6 +1177,7 @@
 .c-secondary { color: #545a70; }
 .c-dark-secondary { color: #363a48; }
 .c-active-secondary { color: #15161c; }
+.c-info { color: #4b71fc; }
 .c-success { color: #7ed321; }
 .c-light-success { color: #f8fdf4; }
 .c-danger { color: #ff3d44; }
