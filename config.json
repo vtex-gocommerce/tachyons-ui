@@ -1,47 +1,56 @@
 {
-  "customMedia": [{ "xs": 36 }, { "s": 48 }, { "m": 62 }, { "l": 75 }, { "xl": 100 }],
+  "customMedia": [
+    {
+      "xs": 36
+    },
+    {
+      "s": 48
+    },
+    {
+      "m": 62
+    },
+    {
+      "l": 75
+    },
+    {
+      "xl": 100
+    }
+  ],
   "colors": {
-
-    "base-1":"#FFFFFF", 
-    "base-2":"#F9FAFC", 
-    "base-3":"#E7E9F0", 
-    "base-4":"#D7DBE7", 
-    "base-inverted-1":"#545A70",
-    "base-inverted-2":"#6D7285", 
-
-    "primary":"#4B71FC",
-    "dark-primary":"#3D5CCE",
-    "active-primary":"#2B4191",
-    "secondary":"#545A70",
-    "dark-secondary":"#363A48",
-    "active-secondary":"#15161C",
-    "info":"#4B71FC",
-    "light-info":"#F0F1F4",
-    "success":"#7ED321",
-    "light-success":"#F8FDF4",
-    "danger":"#FF3D44",
-    "dark-danger":"#D03238",
-    "active-danger":"#942227",
-    "light-danger":"#FFF5F5",
-    "warning":"#FFA721",
-    "light-warning":"#FFFAF4",
-    "outline":"#FFFFFF",
-    "dark-outline":"#F0F1F4",
-    "active-outline":"#E7E9F0",
-
-    "on-base-1":"#212E5F", 
-    "on-base-2":"#7B83A1", 
-    "on-base-inverted-1":"#FFFFFF",
-    "on-base-inverted-2":"#FFFFFF",
-    "on-primary":"#FFFFFF",
-    "on-secondary":"#FFFFFF",
-    "on-danger":"#FFFFFF",
-    "on-success":"#FFFFFF",
-    "on-outline":"#212E5F",
-
+    "base-1": "#FFFFFF",
+    "base-2": "#F9FAFC",
+    "base-3": "#EDEFF2",
+    "base-4": "#E1E4E7",
+    "base-inverted-1": "#545A70",
+    "base-inverted-2": "#7F8494",
+    "base-inverted-3": "#A9ACB7",
+    "base-inverted-4": "#F6F7F8",
+    "primary-light": "#F6F8FF",
+    "primary": "#4B71FC",
+    "primary-dark": "#3855BD",
+    "primary-bold": "#2D4497",
+    "success-light": "#F8FDF4",
+    "success": "#7ED321",
+    "success-dark": "#5F9E19",
+    "success-bold": "#395F0F",
+    "danger-light": "#FFF5F5",
+    "danger": "#FF3D44",
+    "danger-dark": "#BF2E33",
+    "danger-bold": "#801F22",
+    "warning-light": "#FFFAF4",
+    "warning": "#FFA721",
+    "warning-dark": "#BF7D19",
+    "warning-bold": "#805411",
+    "on-primary": "#FFFFFF",
+    "on-success": "#FFFFFF",
+    "on-danger": "#FFFFFF",
+    "on-warning": "#FFFFFF",
+    "on-inverted": "#FFFFFF",
+    "on-base-3": "#CCD1D6",
+    "on-base-2": "#A2A7BA",
+    "on-base": "#545A70",
     "black": "#000000",
     "white": "#ffffff",
-
     "black-20": "rgba(0,0,0,.20)",
     "black-40": "rgba(0,0,0,.40)",
     "black-60": "rgba(0,0,0,.60)",
@@ -52,18 +61,129 @@
     "white-60": "rgba(255,255,255,.60)",
     "white-80": "rgba(255,255,255,.80)",
     "white-90": "rgba(255,255,255,.90)",
-    "transparent": "transparent"
-    
+    "transparent": "transparent",
+    "dark-primary": "#3D5CCE",
+    "active-primary": "#2B4191",
+    "secondary": "#545A70",
+    "dark-secondary": "#363A48",
+    "active-secondary": "#15161C",
+    "info": "#4B71FC",
+    "light-info": "#F0F1F4",
+    "light-success": "#F8FDF4",
+    "dark-danger": "#D03238",
+    "active-danger": "#942227",
+    "light-danger": "#FFF5F5",
+    "light-warning": "#FFFAF4",
+    "outline": "#FFFFFF",
+    "dark-outline": "#F0F1F4",
+    "active-outline": "#E7E9F0"
   },
-  "spacing": [0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2, 2.25, 2.5, 3, 4, 5, 8, 16],
-  "typeScale": [0.75, 0.875, 1, 1.25, 1.5, 2, 2.25, 2.5, 5],
-  "widths": [0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2, 2.25, 2.5, 3, 4, 5, 8, 16],
-  "maxWidths": [1, 2, 4, 8, 16, 32, 48, 64, 96],
-  "heights": [0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2, 2.25, 2.5, 3, 4, 5, 8, 16],
-  "borderRadius": [0, 0.125, 0.25, 0.5, 1],
-  "borderWidths": [0, 0.125, 0.25, 0.5, 1],
+  "spacing": [
+    0.25,
+    0.5,
+    0.75,
+    1,
+    1.25,
+    1.5,
+    1.75,
+    2,
+    2.25,
+    2.5,
+    3,
+    4,
+    5,
+    8,
+    16
+  ],
+  "typeScale": [
+    0.75,
+    0.875,
+    1,
+    1.25,
+    1.5,
+    2,
+    2.25,
+    2.5,
+    5
+  ],
+  "widths": [
+    0.25,
+    0.5,
+    0.75,
+    1,
+    1.25,
+    1.5,
+    1.75,
+    2,
+    2.25,
+    2.5,
+    3,
+    4,
+    5,
+    8,
+    16
+  ],
+  "maxWidths": [
+    1,
+    2,
+    4,
+    8,
+    16,
+    32,
+    48,
+    64,
+    96
+  ],
+  "heights": [
+    0.25,
+    0.5,
+    0.75,
+    1,
+    1.25,
+    1.5,
+    1.75,
+    2,
+    2.25,
+    2.5,
+    3,
+    4,
+    5,
+    8,
+    16
+  ],
+  "borderRadius": [
+    0,
+    0.125,
+    0.25,
+    0.5,
+    1
+  ],
+  "borderWidths": [
+    0,
+    0.125,
+    0.25,
+    0.5,
+    1
+  ],
   "typography": {
-    "measure": [20, 30, 34]
+    "measure": [
+      20,
+      30,
+      34
+    ]
   },
-  "opacity": [1, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1, 0.05, 0]
+  "opacity": [
+    1,
+    0.9,
+    0.8,
+    0.7,
+    0.6,
+    0.5,
+    0.4,
+    0.3,
+    0.2,
+    0.1,
+    0.05,
+    0
+  ]
 }
