@@ -4,14 +4,14 @@
 --base-2: #F9FAFC;
 --base-3: #EDEFF2;
 --base-4: #E1E4E7;
---base-inverted-1: #1F5262;
+--base-inverted-1: #14282E;
 --base-inverted-2: #7F8494;
 --base-inverted-3: #A9ACB7;
 --base-inverted-4: #F6F7F8;
 --primary-light: #F6FCFE;
 --primary: #3DA3C3;
 --primary-dark: #2E7A92;
---primary-bold: #1F5262;
+--primary-bold: #14282E;
 --success-light: #F7FCF8;
 --success: #5FCE77;
 --success-dark: #479B59;
@@ -31,7 +31,7 @@
 --on-inverted: #FFFFFF;
 --on-base-3: #CCD1D6;
 --on-base-2: #8BA3AA;
---on-base: #1F5262;
+--on-base: #14282E;
 --black: #000000;
 --white: #ffffff;
 --black-20: rgba(0,0,0,.20);
