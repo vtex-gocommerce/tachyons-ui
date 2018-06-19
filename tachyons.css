@@ -28,9 +28,9 @@
 .bg-base-4 { background-color: #e1e4e7; }
 .bg-base-inverted-1 { background-color: #14282e; }
 .bg-base-inverted-2 { background-color: #7f8494; }
-.bg-base-inverted-2-25 { background-color: rgba( 127, 132, 148, .25 ); }
 .bg-base-inverted-3 { background-color: #a9acb7; }
 .bg-base-inverted-4 { background-color: #f6f7f8; }
+.bg-base-inverted-5 { background-color: #2e3e47; }
 .bg-primary-light { background-color: #f6fcfe; }
 .bg-primary { background-color: #3da3c3; }
 .bg-primary-dark { background-color: #2e7a92; }
@@ -74,9 +74,9 @@
 .b--base-4 { border-color: #e1e4e7; }
 .b--base-inverted-1 { border-color: #14282e; }
 .b--base-inverted-2 { border-color: #7f8494; }
-.b--base-inverted-2-25 { border-color: rgba( 127, 132, 148, .25 ); }
 .b--base-inverted-3 { border-color: #a9acb7; }
 .b--base-inverted-4 { border-color: #f6f7f8; }
+.b--base-inverted-5 { border-color: #2e3e47; }
 .b--primary-light { border-color: #f6fcfe; }
 .b--primary { border-color: #3da3c3; }
 .b--primary-dark { border-color: #2e7a92; }
@@ -123,9 +123,9 @@
 .c-base-4 { color: #e1e4e7; }
 .c-base-inverted-1 { color: #14282e; }
 .c-base-inverted-2 { color: #7f8494; }
-.c-base-inverted-2-25 { color: rgba( 127, 132, 148, .25 ); }
 .c-base-inverted-3 { color: #a9acb7; }
 .c-base-inverted-4 { color: #f6f7f8; }
+.c-base-inverted-5 { color: #2e3e47; }
 .c-primary-light { color: #f6fcfe; }
 .c-primary { color: #3da3c3; }
 .c-primary-dark { color: #2e7a92; }
@@ -609,9 +609,9 @@
 .bg-base-4 { background-color: #e1e4e7; }
 .bg-base-inverted-1 { background-color: #14282e; }
 .bg-base-inverted-2 { background-color: #7f8494; }
-.bg-base-inverted-2-25 { background-color: rgba( 127, 132, 148, .25 ); }
 .bg-base-inverted-3 { background-color: #a9acb7; }
 .bg-base-inverted-4 { background-color: #f6f7f8; }
+.bg-base-inverted-5 { background-color: #2e3e47; }
 .bg-primary-light { background-color: #f6fcfe; }
 .bg-primary { background-color: #3da3c3; }
 .bg-primary-dark { background-color: #2e7a92; }
@@ -655,9 +655,9 @@
 .c-base-4 { color: #e1e4e7; }
 .c-base-inverted-1 { color: #14282e; }
 .c-base-inverted-2 { color: #7f8494; }
-.c-base-inverted-2-25 { color: rgba( 127, 132, 148, .25 ); }
 .c-base-inverted-3 { color: #a9acb7; }
 .c-base-inverted-4 { color: #f6f7f8; }
+.c-base-inverted-5 { color: #2e3e47; }
 .c-primary-light { color: #f6fcfe; }
 .c-primary { color: #3da3c3; }
 .c-primary-dark { color: #2e7a92; }
@@ -731,12 +731,6 @@
 .hover-bg-base-inverted-2:hover { background-color: #7f8494; }
 .hover-b--base-inverted-2:focus { border-color: #7f8494; }
 .hover-b--base-inverted-2:hover { border-color: #7f8494; }
-.hover-c-base-inverted-2-25:focus { color: rgba( 127, 132, 148, .25 ); }
-.hover-c-base-inverted-2-25:hover { color: rgba( 127, 132, 148, .25 ); }
-.hover-bg-base-inverted-2-25:focus { background-color: rgba( 127, 132, 148, .25 ); }
-.hover-bg-base-inverted-2-25:hover { background-color: rgba( 127, 132, 148, .25 ); }
-.hover-b--base-inverted-2-25:focus { border-color: rgba( 127, 132, 148, .25 ); }
-.hover-b--base-inverted-2-25:hover { border-color: rgba( 127, 132, 148, .25 ); }
 .hover-c-base-inverted-3:focus { color: #a9acb7; }
 .hover-c-base-inverted-3:hover { color: #a9acb7; }
 .hover-bg-base-inverted-3:focus { background-color: #a9acb7; }
@@ -749,6 +743,12 @@
 .hover-bg-base-inverted-4:hover { background-color: #f6f7f8; }
 .hover-b--base-inverted-4:focus { border-color: #f6f7f8; }
 .hover-b--base-inverted-4:hover { border-color: #f6f7f8; }
+.hover-c-base-inverted-5:focus { color: #2e3e47; }
+.hover-c-base-inverted-5:hover { color: #2e3e47; }
+.hover-bg-base-inverted-5:focus { background-color: #2e3e47; }
+.hover-bg-base-inverted-5:hover { background-color: #2e3e47; }
+.hover-b--base-inverted-5:focus { border-color: #2e3e47; }
+.hover-b--base-inverted-5:hover { border-color: #2e3e47; }
 .hover-c-primary-light:focus { color: #f6fcfe; }
 .hover-c-primary-light:hover { color: #f6fcfe; }
 .hover-bg-primary-light:focus { background-color: #f6fcfe; }
@@ -1175,9 +1175,9 @@
 .c-base-4 { color: #e1e4e7; }
 .c-base-inverted-1 { color: #14282e; }
 .c-base-inverted-2 { color: #7f8494; }
-.c-base-inverted-2-25 { color: rgba( 127, 132, 148, .25 ); }
 .c-base-inverted-3 { color: #a9acb7; }
 .c-base-inverted-4 { color: #f6f7f8; }
+.c-base-inverted-5 { color: #2e3e47; }
 .c-primary-light { color: #f6fcfe; }
 .c-primary { color: #3da3c3; }
 .c-primary-dark { color: #2e7a92; }
