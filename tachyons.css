@@ -57,6 +57,15 @@
 .bg-on-base { background-color: #14282e; }
 .bg-black { background-color: #000; }
 .bg-white { background-color: #fff; }
+.bg-danger-light-10 { background-color: rgba( 254, 243, 245, .10 ); }
+.bg-danger-light-20 { background-color: rgba( 254, 243, 245, .20 ); }
+.bg-danger-light-30 { background-color: rgba( 254, 243, 245, .30 ); }
+.bg-danger-light-40 { background-color: rgba( 254, 243, 245, .40 ); }
+.bg-danger-light-50 { background-color: rgba( 254, 243, 245, .50 ); }
+.bg-danger-light-60 { background-color: rgba( 254, 243, 245, .60 ); }
+.bg-danger-light-70 { background-color: rgba( 254, 243, 245, .70 ); }
+.bg-danger-light-80 { background-color: rgba( 254, 243, 245, .80 ); }
+.bg-danger-light-90 { background-color: rgba( 254, 243, 245, .90 ); }
 .bg-black-20 { background-color: rgba( 0, 0, 0, .20 ); }
 .bg-black-40 { background-color: rgba( 0, 0, 0, .40 ); }
 .bg-black-60 { background-color: rgba( 0, 0, 0, .60 ); }
@@ -103,6 +112,15 @@
 .b--on-base { border-color: #14282e; }
 .b--black { border-color: #000; }
 .b--white { border-color: #fff; }
+.b--danger-light-10 { border-color: rgba( 254, 243, 245, .10 ); }
+.b--danger-light-20 { border-color: rgba( 254, 243, 245, .20 ); }
+.b--danger-light-30 { border-color: rgba( 254, 243, 245, .30 ); }
+.b--danger-light-40 { border-color: rgba( 254, 243, 245, .40 ); }
+.b--danger-light-50 { border-color: rgba( 254, 243, 245, .50 ); }
+.b--danger-light-60 { border-color: rgba( 254, 243, 245, .60 ); }
+.b--danger-light-70 { border-color: rgba( 254, 243, 245, .70 ); }
+.b--danger-light-80 { border-color: rgba( 254, 243, 245, .80 ); }
+.b--danger-light-90 { border-color: rgba( 254, 243, 245, .90 ); }
 .b--black-20 { border-color: rgba( 0, 0, 0, .20 ); }
 .b--black-40 { border-color: rgba( 0, 0, 0, .40 ); }
 .b--black-60 { border-color: rgba( 0, 0, 0, .60 ); }
@@ -152,6 +170,15 @@
 .c-on-base { color: #14282e; }
 .c-black { color: #000; }
 .c-white { color: #fff; }
+.c-danger-light-10 { color: rgba( 254, 243, 245, .10 ); }
+.c-danger-light-20 { color: rgba( 254, 243, 245, .20 ); }
+.c-danger-light-30 { color: rgba( 254, 243, 245, .30 ); }
+.c-danger-light-40 { color: rgba( 254, 243, 245, .40 ); }
+.c-danger-light-50 { color: rgba( 254, 243, 245, .50 ); }
+.c-danger-light-60 { color: rgba( 254, 243, 245, .60 ); }
+.c-danger-light-70 { color: rgba( 254, 243, 245, .70 ); }
+.c-danger-light-80 { color: rgba( 254, 243, 245, .80 ); }
+.c-danger-light-90 { color: rgba( 254, 243, 245, .90 ); }
 .c-black-20 { color: rgba( 0, 0, 0, .20 ); }
 .c-black-40 { color: rgba( 0, 0, 0, .40 ); }
 .c-black-60 { color: rgba( 0, 0, 0, .60 ); }
@@ -638,6 +665,15 @@
 .bg-on-base { background-color: #14282e; }
 .bg-black { background-color: #000; }
 .bg-white { background-color: #fff; }
+.bg-danger-light-10 { background-color: rgba( 254, 243, 245, .10 ); }
+.bg-danger-light-20 { background-color: rgba( 254, 243, 245, .20 ); }
+.bg-danger-light-30 { background-color: rgba( 254, 243, 245, .30 ); }
+.bg-danger-light-40 { background-color: rgba( 254, 243, 245, .40 ); }
+.bg-danger-light-50 { background-color: rgba( 254, 243, 245, .50 ); }
+.bg-danger-light-60 { background-color: rgba( 254, 243, 245, .60 ); }
+.bg-danger-light-70 { background-color: rgba( 254, 243, 245, .70 ); }
+.bg-danger-light-80 { background-color: rgba( 254, 243, 245, .80 ); }
+.bg-danger-light-90 { background-color: rgba( 254, 243, 245, .90 ); }
 .bg-black-20 { background-color: rgba( 0, 0, 0, .20 ); }
 .bg-black-40 { background-color: rgba( 0, 0, 0, .40 ); }
 .bg-black-60 { background-color: rgba( 0, 0, 0, .60 ); }
@@ -684,6 +720,15 @@
 .c-on-base { color: #14282e; }
 .c-black { color: #000; }
 .c-white { color: #fff; }
+.c-danger-light-10 { color: rgba( 254, 243, 245, .10 ); }
+.c-danger-light-20 { color: rgba( 254, 243, 245, .20 ); }
+.c-danger-light-30 { color: rgba( 254, 243, 245, .30 ); }
+.c-danger-light-40 { color: rgba( 254, 243, 245, .40 ); }
+.c-danger-light-50 { color: rgba( 254, 243, 245, .50 ); }
+.c-danger-light-60 { color: rgba( 254, 243, 245, .60 ); }
+.c-danger-light-70 { color: rgba( 254, 243, 245, .70 ); }
+.c-danger-light-80 { color: rgba( 254, 243, 245, .80 ); }
+.c-danger-light-90 { color: rgba( 254, 243, 245, .90 ); }
 .c-black-20 { color: rgba( 0, 0, 0, .20 ); }
 .c-black-40 { color: rgba( 0, 0, 0, .40 ); }
 .c-black-60 { color: rgba( 0, 0, 0, .60 ); }
@@ -905,6 +950,60 @@
 .hover-bg-white:hover { background-color: #fff; }
 .hover-b--white:focus { border-color: #fff; }
 .hover-b--white:hover { border-color: #fff; }
+.hover-c-danger-light-10:focus { color: rgba( 254, 243, 245, .10 ); }
+.hover-c-danger-light-10:hover { color: rgba( 254, 243, 245, .10 ); }
+.hover-bg-danger-light-10:focus { background-color: rgba( 254, 243, 245, .10 ); }
+.hover-bg-danger-light-10:hover { background-color: rgba( 254, 243, 245, .10 ); }
+.hover-b--danger-light-10:focus { border-color: rgba( 254, 243, 245, .10 ); }
+.hover-b--danger-light-10:hover { border-color: rgba( 254, 243, 245, .10 ); }
+.hover-c-danger-light-20:focus { color: rgba( 254, 243, 245, .20 ); }
+.hover-c-danger-light-20:hover { color: rgba( 254, 243, 245, .20 ); }
+.hover-bg-danger-light-20:focus { background-color: rgba( 254, 243, 245, .20 ); }
+.hover-bg-danger-light-20:hover { background-color: rgba( 254, 243, 245, .20 ); }
+.hover-b--danger-light-20:focus { border-color: rgba( 254, 243, 245, .20 ); }
+.hover-b--danger-light-20:hover { border-color: rgba( 254, 243, 245, .20 ); }
+.hover-c-danger-light-30:focus { color: rgba( 254, 243, 245, .30 ); }
+.hover-c-danger-light-30:hover { color: rgba( 254, 243, 245, .30 ); }
+.hover-bg-danger-light-30:focus { background-color: rgba( 254, 243, 245, .30 ); }
+.hover-bg-danger-light-30:hover { background-color: rgba( 254, 243, 245, .30 ); }
+.hover-b--danger-light-30:focus { border-color: rgba( 254, 243, 245, .30 ); }
+.hover-b--danger-light-30:hover { border-color: rgba( 254, 243, 245, .30 ); }
+.hover-c-danger-light-40:focus { color: rgba( 254, 243, 245, .40 ); }
+.hover-c-danger-light-40:hover { color: rgba( 254, 243, 245, .40 ); }
+.hover-bg-danger-light-40:focus { background-color: rgba( 254, 243, 245, .40 ); }
+.hover-bg-danger-light-40:hover { background-color: rgba( 254, 243, 245, .40 ); }
+.hover-b--danger-light-40:focus { border-color: rgba( 254, 243, 245, .40 ); }
+.hover-b--danger-light-40:hover { border-color: rgba( 254, 243, 245, .40 ); }
+.hover-c-danger-light-50:focus { color: rgba( 254, 243, 245, .50 ); }
+.hover-c-danger-light-50:hover { color: rgba( 254, 243, 245, .50 ); }
+.hover-bg-danger-light-50:focus { background-color: rgba( 254, 243, 245, .50 ); }
+.hover-bg-danger-light-50:hover { background-color: rgba( 254, 243, 245, .50 ); }
+.hover-b--danger-light-50:focus { border-color: rgba( 254, 243, 245, .50 ); }
+.hover-b--danger-light-50:hover { border-color: rgba( 254, 243, 245, .50 ); }
+.hover-c-danger-light-60:focus { color: rgba( 254, 243, 245, .60 ); }
+.hover-c-danger-light-60:hover { color: rgba( 254, 243, 245, .60 ); }
+.hover-bg-danger-light-60:focus { background-color: rgba( 254, 243, 245, .60 ); }
+.hover-bg-danger-light-60:hover { background-color: rgba( 254, 243, 245, .60 ); }
+.hover-b--danger-light-60:focus { border-color: rgba( 254, 243, 245, .60 ); }
+.hover-b--danger-light-60:hover { border-color: rgba( 254, 243, 245, .60 ); }
+.hover-c-danger-light-70:focus { color: rgba( 254, 243, 245, .70 ); }
+.hover-c-danger-light-70:hover { color: rgba( 254, 243, 245, .70 ); }
+.hover-bg-danger-light-70:focus { background-color: rgba( 254, 243, 245, .70 ); }
+.hover-bg-danger-light-70:hover { background-color: rgba( 254, 243, 245, .70 ); }
+.hover-b--danger-light-70:focus { border-color: rgba( 254, 243, 245, .70 ); }
+.hover-b--danger-light-70:hover { border-color: rgba( 254, 243, 245, .70 ); }
+.hover-c-danger-light-80:focus { color: rgba( 254, 243, 245, .80 ); }
+.hover-c-danger-light-80:hover { color: rgba( 254, 243, 245, .80 ); }
+.hover-bg-danger-light-80:focus { background-color: rgba( 254, 243, 245, .80 ); }
+.hover-bg-danger-light-80:hover { background-color: rgba( 254, 243, 245, .80 ); }
+.hover-b--danger-light-80:focus { border-color: rgba( 254, 243, 245, .80 ); }
+.hover-b--danger-light-80:hover { border-color: rgba( 254, 243, 245, .80 ); }
+.hover-c-danger-light-90:focus { color: rgba( 254, 243, 245, .90 ); }
+.hover-c-danger-light-90:hover { color: rgba( 254, 243, 245, .90 ); }
+.hover-bg-danger-light-90:focus { background-color: rgba( 254, 243, 245, .90 ); }
+.hover-bg-danger-light-90:hover { background-color: rgba( 254, 243, 245, .90 ); }
+.hover-b--danger-light-90:focus { border-color: rgba( 254, 243, 245, .90 ); }
+.hover-b--danger-light-90:hover { border-color: rgba( 254, 243, 245, .90 ); }
 .hover-c-black-20:focus { color: rgba( 0, 0, 0, .20 ); }
 .hover-c-black-20:hover { color: rgba( 0, 0, 0, .20 ); }
 .hover-bg-black-20:focus { background-color: rgba( 0, 0, 0, .20 ); }
@@ -1204,6 +1303,15 @@
 .c-on-base { color: #14282e; }
 .c-black { color: #000; }
 .c-white { color: #fff; }
+.c-danger-light-10 { color: rgba( 254, 243, 245, .10 ); }
+.c-danger-light-20 { color: rgba( 254, 243, 245, .20 ); }
+.c-danger-light-30 { color: rgba( 254, 243, 245, .30 ); }
+.c-danger-light-40 { color: rgba( 254, 243, 245, .40 ); }
+.c-danger-light-50 { color: rgba( 254, 243, 245, .50 ); }
+.c-danger-light-60 { color: rgba( 254, 243, 245, .60 ); }
+.c-danger-light-70 { color: rgba( 254, 243, 245, .70 ); }
+.c-danger-light-80 { color: rgba( 254, 243, 245, .80 ); }
+.c-danger-light-90 { color: rgba( 254, 243, 245, .90 ); }
 .c-black-20 { color: rgba( 0, 0, 0, .20 ); }
 .c-black-40 { color: rgba( 0, 0, 0, .40 ); }
 .c-black-60 { color: rgba( 0, 0, 0, .60 ); }
