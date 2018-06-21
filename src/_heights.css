@@ -26,6 +26,7 @@
     13 = 13rd step in height scale
     14 = 14th step in height scale
     15 = 15th step in height scale
+    16 = 16th step in height scale
 
     -25   = literal value 25%
     -50   = literal value 50%
@@ -57,7 +58,8 @@
 .g-h12 { height: 4rem; }
 .g-h13 { height: 5rem; }
 .g-h14 { height: 8rem; }
-.g-h15 { height: 16rem; }
+.g-h15 { height: 13.75rem; }
+.g-h16 { height: 16rem; }
 
 					@media screen and (min-width: 36em) and (max-width: 48em) {
 						.g-h1-xs { height: 0.25rem; }
@@ -74,7 +76,8 @@
 .g-h12-xs { height: 4rem; }
 .g-h13-xs { height: 5rem; }
 .g-h14-xs { height: 8rem; }
-.g-h15-xs { height: 16rem; }
+.g-h15-xs { height: 13.75rem; }
+.g-h16-xs { height: 16rem; }
 					}
 				
 
@@ -93,7 +96,8 @@
 .g-h12-s { height: 4rem; }
 .g-h13-s { height: 5rem; }
 .g-h14-s { height: 8rem; }
-.g-h15-s { height: 16rem; }
+.g-h15-s { height: 13.75rem; }
+.g-h16-s { height: 16rem; }
 					}
 				
 
@@ -112,7 +116,8 @@
 .g-h12-m { height: 4rem; }
 .g-h13-m { height: 5rem; }
 .g-h14-m { height: 8rem; }
-.g-h15-m { height: 16rem; }
+.g-h15-m { height: 13.75rem; }
+.g-h16-m { height: 16rem; }
 					}
 				
 
@@ -131,7 +136,8 @@
 .g-h12-l { height: 4rem; }
 .g-h13-l { height: 5rem; }
 .g-h14-l { height: 8rem; }
-.g-h15-l { height: 16rem; }
+.g-h15-l { height: 13.75rem; }
+.g-h16-l { height: 16rem; }
 					}
 				
 
@@ -150,6 +156,7 @@
 .g-h12-xl { height: 4rem; }
 .g-h13-xl { height: 5rem; }
 .g-h14-xl { height: 8rem; }
-.g-h15-xl { height: 16rem; }
+.g-h15-xl { height: 13.75rem; }
+.g-h16-xl { height: 16rem; }
 					}
 				

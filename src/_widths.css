@@ -23,6 +23,7 @@
     13 = 13rd step in width scale
     14 = 14th step in width scale
     15 = 15th step in width scale
+    16 = 16th step in width scale
 
     -10  = literal value 10%
     -15  = literal value 15%
@@ -68,7 +69,8 @@
 .g-w12 { width: 4rem; }
 .g-w13 { width: 5rem; }
 .g-w14 { width: 8rem; }
-.g-w15 { width: 16rem; }
+.g-w15 { width: 13.75rem; }
+.g-w16 { width: 16rem; }
 .w-15 {  width:  15%; }
 .w-85 {  width:  85%; }
 
@@ -87,7 +89,8 @@
 .g-w12-xs { width: 4rem; }
 .g-w13-xs { width: 5rem; }
 .g-w14-xs { width: 8rem; }
-.g-w15-xs { width: 16rem; }
+.g-w15-xs { width: 13.75rem; }
+.g-w16-xs { width: 16rem; }
 .w-15-xs {  width:  15%; }
 .w-85-xs {  width:  85%; }
 					}
@@ -108,7 +111,8 @@
 .g-w12-s { width: 4rem; }
 .g-w13-s { width: 5rem; }
 .g-w14-s { width: 8rem; }
-.g-w15-s { width: 16rem; }
+.g-w15-s { width: 13.75rem; }
+.g-w16-s { width: 16rem; }
 .w-15-s {  width:  15%; }
 .w-85-s {  width:  85%; }
 					}
@@ -129,7 +133,8 @@
 .g-w12-m { width: 4rem; }
 .g-w13-m { width: 5rem; }
 .g-w14-m { width: 8rem; }
-.g-w15-m { width: 16rem; }
+.g-w15-m { width: 13.75rem; }
+.g-w16-m { width: 16rem; }
 .w-15-m {  width:  15%; }
 .w-85-m {  width:  85%; }
 					}
@@ -150,7 +155,8 @@
 .g-w12-l { width: 4rem; }
 .g-w13-l { width: 5rem; }
 .g-w14-l { width: 8rem; }
-.g-w15-l { width: 16rem; }
+.g-w15-l { width: 13.75rem; }
+.g-w16-l { width: 16rem; }
 .w-15-l {  width:  15%; }
 .w-85-l {  width:  85%; }
 					}
@@ -171,7 +177,8 @@
 .g-w12-xl { width: 4rem; }
 .g-w13-xl { width: 5rem; }
 .g-w14-xl { width: 8rem; }
-.g-w15-xl { width: 16rem; }
+.g-w15-xl { width: 13.75rem; }
+.g-w16-xl { width: 16rem; }
 .w-15-xl {  width:  15%; }
 .w-85-xl {  width:  85%; }
 					}
