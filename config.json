@@ -1,25 +1,31 @@
 {
   "customMedia": [
     {
-      "xs": 36
-    },
-    {
-      "s": 48
-    },
-    {
-      "m": 62
+      "s": 20
     },
     {
       "ns": {
-        "value": 75,
+        "value": 40,
         "minWidth": true
       }
     },
     {
-      "l": 75
+      "m": {
+        "value": 40,
+        "minWidth": true
+      }
     },
     {
-      "xl": 100
+      "l": {
+        "value": 64,
+        "minWidth": true
+      }
+    },
+    {
+      "xl": {
+        "value": 80,
+        "minWidth": true
+      }
     }
   ],
   "colors": {

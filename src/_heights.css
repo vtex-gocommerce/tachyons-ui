@@ -37,12 +37,8 @@
     -inherit = string value of inherit
 
   Media Query Extensions:
-    -xs  = 36em
-    -s  = 48em
-    -m  = 62em
-    -ns  = 75em
-    -l  = 75em
-    -xl  = 100em
+    -m  = 48em
+    -l  = 64em
 
 */
 .g-h1 { height: 0.25rem; }
@@ -62,47 +58,7 @@
 .g-h15 { height: 13.75rem; }
 .g-h16 { height: 16rem; }
 
-					@media screen and (min-width: 36em) and (max-width: 48em) {
-						.g-h1-xs { height: 0.25rem; }
-.g-h2-xs { height: 0.5rem; }
-.g-h3-xs { height: 0.75rem; }
-.g-h4-xs { height: 1rem; }
-.g-h5-xs { height: 1.25rem; }
-.g-h6-xs { height: 1.5rem; }
-.g-h7-xs { height: 1.75rem; }
-.g-h8-xs { height: 2rem; }
-.g-h9-xs { height: 2.25rem; }
-.g-h10-xs { height: 2.5rem; }
-.g-h11-xs { height: 3rem; }
-.g-h12-xs { height: 4rem; }
-.g-h13-xs { height: 5rem; }
-.g-h14-xs { height: 8rem; }
-.g-h15-xs { height: 13.75rem; }
-.g-h16-xs { height: 16rem; }
-					}
-				
-
-					@media screen and (min-width: 48em) and (max-width: 62em) {
-						.g-h1-s { height: 0.25rem; }
-.g-h2-s { height: 0.5rem; }
-.g-h3-s { height: 0.75rem; }
-.g-h4-s { height: 1rem; }
-.g-h5-s { height: 1.25rem; }
-.g-h6-s { height: 1.5rem; }
-.g-h7-s { height: 1.75rem; }
-.g-h8-s { height: 2rem; }
-.g-h9-s { height: 2.25rem; }
-.g-h10-s { height: 2.5rem; }
-.g-h11-s { height: 3rem; }
-.g-h12-s { height: 4rem; }
-.g-h13-s { height: 5rem; }
-.g-h14-s { height: 8rem; }
-.g-h15-s { height: 13.75rem; }
-.g-h16-s { height: 16rem; }
-					}
-				
-
-					@media screen and (min-width: 62em) and (max-width: 75em) {
+					@media screen and (min-width: 48em) and (max-width: 64em) {
 						.g-h1-m { height: 0.25rem; }
 .g-h2-m { height: 0.5rem; }
 .g-h3-m { height: 0.75rem; }
@@ -122,7 +78,7 @@
 					}
 				
 
-					@media screen and (min-width: 75em) and (max-width: 100em) {
+					@media screen and (min-width: 64em) {
 						.g-h1-l { height: 0.25rem; }
 .g-h2-l { height: 0.5rem; }
 .g-h3-l { height: 0.75rem; }
@@ -139,45 +95,5 @@
 .g-h14-l { height: 8rem; }
 .g-h15-l { height: 13.75rem; }
 .g-h16-l { height: 16rem; }
-					}
-				
-
-					@media screen and (min-width: 100em) {
-						.g-h1-xl { height: 0.25rem; }
-.g-h2-xl { height: 0.5rem; }
-.g-h3-xl { height: 0.75rem; }
-.g-h4-xl { height: 1rem; }
-.g-h5-xl { height: 1.25rem; }
-.g-h6-xl { height: 1.5rem; }
-.g-h7-xl { height: 1.75rem; }
-.g-h8-xl { height: 2rem; }
-.g-h9-xl { height: 2.25rem; }
-.g-h10-xl { height: 2.5rem; }
-.g-h11-xl { height: 3rem; }
-.g-h12-xl { height: 4rem; }
-.g-h13-xl { height: 5rem; }
-.g-h14-xl { height: 8rem; }
-.g-h15-xl { height: 13.75rem; }
-.g-h16-xl { height: 16rem; }
-					}
-				
-
-					@media screen and (min-width: 75em) {
-						.g-h1-ns { height: 0.25rem; }
-.g-h2-ns { height: 0.5rem; }
-.g-h3-ns { height: 0.75rem; }
-.g-h4-ns { height: 1rem; }
-.g-h5-ns { height: 1.25rem; }
-.g-h6-ns { height: 1.5rem; }
-.g-h7-ns { height: 1.75rem; }
-.g-h8-ns { height: 2rem; }
-.g-h9-ns { height: 2.25rem; }
-.g-h10-ns { height: 2.5rem; }
-.g-h11-ns { height: 3rem; }
-.g-h12-ns { height: 4rem; }
-.g-h13-ns { height: 5rem; }
-.g-h14-ns { height: 8rem; }
-.g-h15-ns { height: 13.75rem; }
-.g-h16-ns { height: 16rem; }
 					}
 				
