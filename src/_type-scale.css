@@ -20,8 +20,8 @@
   Media Query Extensions:
     -xs  = 36em
     -s  = 48em
-    -ns  = 40em
     -m  = 62em
+    -ns  = 75em
     -l  = 75em
     -xl  = 100em
 */
@@ -100,7 +100,7 @@
 					}
 				
 
-					@media screen and (min-width: 40em) {
+					@media screen and (min-width: 75em) {
 						.g-f1-ns { font-size: 0.75rem; }
 .g-f2-ns { font-size: 0.875rem; }
 .g-f3-ns { font-size: 1rem; }

@@ -7,13 +7,13 @@
       "s": 48
     },
     {
-      "ns": {
-        "value": 40,
-        "minWidth": true
-      }
+      "m": 62
     },
     {
-      "m": 62
+      "ns": {
+        "value": 75,
+        "minWidth": true
+      }
     },
     {
       "l": 75

@@ -50,8 +50,8 @@
   Media Query Extensions:
     -xs  = 36em
     -s  = 48em
-    -ns  = 40em
     -m  = 62em
+    -ns  = 75em
     -l  = 75em
     -xl  = 100em
 
@@ -185,7 +185,7 @@
 					}
 				
 
-					@media screen and (min-width: 40em) {
+					@media screen and (min-width: 75em) {
 						.g-w1-ns { width: 0.25rem; }
 .g-w2-ns { width: 0.5rem; }
 .g-w3-ns { width: 0.75rem; }
