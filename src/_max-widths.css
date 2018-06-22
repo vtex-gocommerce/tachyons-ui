@@ -24,6 +24,7 @@
   Media Query Extensions:
     -xs  = 36em
     -s  = 48em
+    -ns  = 40em
     -m  = 62em
     -l  = 75em
     -xl  = 100em
@@ -101,5 +102,18 @@
 .g-mw7-xl { max-width: 48rem; }
 .g-mw8-xl { max-width: 64rem; }
 .g-mw9-xl { max-width: 96rem; }
+					}
+				
+
+					@media screen and (min-width: 40em) {
+						.g-mw1-ns { max-width: 1rem; }
+.g-mw2-ns { max-width: 2rem; }
+.g-mw3-ns { max-width: 4rem; }
+.g-mw4-ns { max-width: 8rem; }
+.g-mw5-ns { max-width: 16rem; }
+.g-mw6-ns { max-width: 32rem; }
+.g-mw7-ns { max-width: 48rem; }
+.g-mw8-ns { max-width: 64rem; }
+.g-mw9-ns { max-width: 96rem; }
 					}
 				

@@ -39,6 +39,7 @@
   Media Query Extensions:
     -xs  = 36em
     -s  = 48em
+    -ns  = 40em
     -m  = 62em
     -l  = 75em
     -xl  = 100em
@@ -158,5 +159,25 @@
 .g-h14-xl { height: 8rem; }
 .g-h15-xl { height: 13.75rem; }
 .g-h16-xl { height: 16rem; }
+					}
+				
+
+					@media screen and (min-width: 40em) {
+						.g-h1-ns { height: 0.25rem; }
+.g-h2-ns { height: 0.5rem; }
+.g-h3-ns { height: 0.75rem; }
+.g-h4-ns { height: 1rem; }
+.g-h5-ns { height: 1.25rem; }
+.g-h6-ns { height: 1.5rem; }
+.g-h7-ns { height: 1.75rem; }
+.g-h8-ns { height: 2rem; }
+.g-h9-ns { height: 2.25rem; }
+.g-h10-ns { height: 2.5rem; }
+.g-h11-ns { height: 3rem; }
+.g-h12-ns { height: 4rem; }
+.g-h13-ns { height: 5rem; }
+.g-h14-ns { height: 8rem; }
+.g-h15-ns { height: 13.75rem; }
+.g-h16-ns { height: 16rem; }
 					}
 				

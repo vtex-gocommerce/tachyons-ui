@@ -50,6 +50,7 @@
   Media Query Extensions:
     -xs  = 36em
     -s  = 48em
+    -ns  = 40em
     -m  = 62em
     -l  = 75em
     -xl  = 100em
@@ -181,5 +182,27 @@
 .g-w16-xl { width: 16rem; }
 .w-15-xl {  width:  15%; }
 .w-85-xl {  width:  85%; }
+					}
+				
+
+					@media screen and (min-width: 40em) {
+						.g-w1-ns { width: 0.25rem; }
+.g-w2-ns { width: 0.5rem; }
+.g-w3-ns { width: 0.75rem; }
+.g-w4-ns { width: 1rem; }
+.g-w5-ns { width: 1.25rem; }
+.g-w6-ns { width: 1.5rem; }
+.g-w7-ns { width: 1.75rem; }
+.g-w8-ns { width: 2rem; }
+.g-w9-ns { width: 2.25rem; }
+.g-w10-ns { width: 2.5rem; }
+.g-w11-ns { width: 3rem; }
+.g-w12-ns { width: 4rem; }
+.g-w13-ns { width: 5rem; }
+.g-w14-ns { width: 8rem; }
+.g-w15-ns { width: 13.75rem; }
+.g-w16-ns { width: 16rem; }
+.w-15-ns {  width:  15%; }
+.w-85-ns {  width:  85%; }
 					}
 				

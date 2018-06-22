@@ -115,3 +115,19 @@
 .g-o-0-xl { opacity: 0; }
 					}
 				
+
+					@media screen and (min-width: 40em) {
+						.g-o-100-ns { opacity: 1; }
+.g-o-90-ns { opacity: 0.9; }
+.g-o-80-ns { opacity: 0.8; }
+.g-o-70-ns { opacity: 0.7; }
+.g-o-60-ns { opacity: 0.6; }
+.g-o-50-ns { opacity: 0.5; }
+.g-o-40-ns { opacity: 0.4; }
+.g-o-30-ns { opacity: 0.3; }
+.g-o-20-ns { opacity: 0.2; }
+.g-o-10-ns { opacity: 0.1; }
+.g-o-05-ns { opacity: 0.05; }
+.g-o-0-ns { opacity: 0; }
+					}
+				
