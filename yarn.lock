@@ -1740,9 +1740,9 @@ tachyons-build-css@^1.5.1:
     postcss-import "^9.1.0"
     postcss-rtl "^1.1.3"
 
-"tachyons-generator@git+https://github.com/vtex-gocommerce/tachyons-generator.git#0.24.0":
-  version "0.24.0"
-  resolved "git+https://github.com/vtex-gocommerce/tachyons-generator.git#c297e534f010f8a687a3cd8c053bf3d7144c4368"
+"tachyons-generator@git+https://github.com/vtex-gocommerce/tachyons-generator.git#0.24.3":
+  version "0.24.3"
+  resolved "git+https://github.com/vtex-gocommerce/tachyons-generator.git#970fafcbe46a62ec55680ddebba12c619b89f086"
   dependencies:
     camelcase "^4.1.0"
     colorable "^1.0.5"
