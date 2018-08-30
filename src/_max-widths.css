@@ -16,6 +16,7 @@
     7 = 7th step in width scale
     8 = 8th step in width scale
     9 = 9th step in width scale
+    10 = 10th step in width scale
 
     -100 = literal value 100%
 
@@ -37,7 +38,8 @@
 .g-mw6 { max-width: 32rem; }
 .g-mw7 { max-width: 48rem; }
 .g-mw8 { max-width: 64rem; }
-.g-mw9 { max-width: 96rem; }
+.g-mw9 { max-width: 74.18rem; }
+.g-mw10 { max-width: 96rem; }
 
 					@media screen and (min-width: 20em) {
 						.g-mw1-s { max-width: 1rem; }
@@ -48,7 +50,8 @@
 .g-mw6-s { max-width: 32rem; }
 .g-mw7-s { max-width: 48rem; }
 .g-mw8-s { max-width: 64rem; }
-.g-mw9-s { max-width: 96rem; }
+.g-mw9-s { max-width: 74.18rem; }
+.g-mw10-s { max-width: 96rem; }
 					}
 				
 
@@ -61,7 +64,8 @@
 .g-mw6-ns { max-width: 32rem; }
 .g-mw7-ns { max-width: 48rem; }
 .g-mw8-ns { max-width: 64rem; }
-.g-mw9-ns { max-width: 96rem; }
+.g-mw9-ns { max-width: 74.18rem; }
+.g-mw10-ns { max-width: 96rem; }
 					}
 				
 
@@ -74,7 +78,8 @@
 .g-mw6-m { max-width: 32rem; }
 .g-mw7-m { max-width: 48rem; }
 .g-mw8-m { max-width: 64rem; }
-.g-mw9-m { max-width: 96rem; }
+.g-mw9-m { max-width: 74.18rem; }
+.g-mw10-m { max-width: 96rem; }
 					}
 				
 
@@ -87,7 +92,8 @@
 .g-mw6-l { max-width: 32rem; }
 .g-mw7-l { max-width: 48rem; }
 .g-mw8-l { max-width: 64rem; }
-.g-mw9-l { max-width: 96rem; }
+.g-mw9-l { max-width: 74.18rem; }
+.g-mw10-l { max-width: 96rem; }
 					}
 				
 
@@ -100,6 +106,7 @@
 .g-mw6-xl { max-width: 32rem; }
 .g-mw7-xl { max-width: 48rem; }
 .g-mw8-xl { max-width: 64rem; }
-.g-mw9-xl { max-width: 96rem; }
+.g-mw9-xl { max-width: 74.18rem; }
+.g-mw10-xl { max-width: 96rem; }
 					}
 				
