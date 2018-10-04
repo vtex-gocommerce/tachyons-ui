@@ -1,6 +1,6 @@
 {
   "name": "@gocommerce/tachyons",
-  "version": "3.0.19",
+  "version": "3.0.20",
   "description": "This project is a fork from [vtex-tachyons](https://github.com/vtex/vtex-tachyons).",
   "main": "tachyons.css",
   "scripts": {
@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/vtex-gocommerce/tachyons-ui#readme",
   "devDependencies": {
-    "tachyons-generator": "git+https://github.com/vtex-gocommerce/tachyons-generator.git#0.24.4"
+    "tachyons-generator": "git+https://github.com/vtex-gocommerce/tachyons-generator.git#0.24.5"
   }
 }

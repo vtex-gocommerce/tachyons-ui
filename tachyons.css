@@ -1369,6 +1369,10 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .g-w16 { width: 16rem; }
 .w-15 { width: 15%; }
 .w-85 { width: 85%; }
+.word-normal { word-break: normal; }
+.word-wrap { word-break: break-all; }
+.word-nowrap { word-break: keep-all; }
+.word-break { word-break: break-word; }
 .z-6 { z-index: 6; }
 .c-base-1 { color: #fff; }
 .c-base-2 { color: #f8f8f9; }
@@ -1857,6 +1861,10 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .g-w16-s { width: 16rem; }
  .w-15-s { width: 15%; }
  .w-85-s { width: 85%; }
+ .word-normal-s { word-break: normal; }
+ .word-wrap-s { word-break: break-all; }
+ .word-nowrap-s { word-break: keep-all; }
+ .word-break-s { word-break: break-word; }
 }
 @media screen and (min-width: 40em) {
  .shadow-1-ns { box-shadow: 0 0 5px 0 rgba( 31, 46, 95, .08 ); }
@@ -2709,6 +2717,14 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .g-w16-m { width: 16rem; }
  .w-15-m { width: 15%; }
  .w-85-m { width: 85%; }
+ .word-normal-ns { word-break: normal; }
+ .word-wrap-ns { word-break: break-all; }
+ .word-nowrap-ns { word-break: keep-all; }
+ .word-break-ns { word-break: break-word; }
+ .word-normal-m { word-break: normal; }
+ .word-wrap-m { word-break: break-all; }
+ .word-nowrap-m { word-break: keep-all; }
+ .word-break-m { word-break: break-word; }
 }
 @media screen and (min-width: 64em) {
  .shadow-1-l { box-shadow: 0 0 5px 0 rgba( 31, 46, 95, .08 ); }
@@ -3136,6 +3152,10 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .g-w16-l { width: 16rem; }
  .w-15-l { width: 15%; }
  .w-85-l { width: 85%; }
+ .word-normal-l { word-break: normal; }
+ .word-wrap-l { word-break: break-all; }
+ .word-nowrap-l { word-break: keep-all; }
+ .word-break-l { word-break: break-word; }
 }
 @media screen and (min-width: 80em) {
  .shadow-1-xl { box-shadow: 0 0 5px 0 rgba( 31, 46, 95, .08 ); }
@@ -3563,4 +3583,8 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .g-w16-xl { width: 16rem; }
  .w-15-xl { width: 15%; }
  .w-85-xl { width: 85%; }
+ .word-normal-xl { word-break: normal; }
+ .word-wrap-xl { word-break: break-all; }
+ .word-nowrap-xl { word-break: keep-all; }
+ .word-break-xl { word-break: break-word; }
 }
